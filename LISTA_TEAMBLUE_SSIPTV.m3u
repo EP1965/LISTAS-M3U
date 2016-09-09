@@ -1,5 +1,448 @@
 #EXTM3U
 
+
+#EXTINF:0,LISTA TEMPORARIA
+http://0.0.0.0:1234
+#EXTINF:0,DURA O QUE DURAR
+http://0.0.0.0:1234
+#EXTINF:0,NO FIM DESTA LISTA ESTA A LISTA NORMAL
+http://0.0.0.0:1234
+
+
+
+#EXTINF:0,RTP 1
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/107.ts
+#EXTINF:0,RTP 2
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/110.ts
+#EXTINF:0,SIC
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/119.ts
+#EXTINF:0,TVI
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/171.ts
+#EXTINF:0,RTP 1 (ALT)
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/485.ts
+#EXTINF:0,SIC (ALT)
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/76.ts
+#EXTINF:0,TVI (ALT)
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/482.ts
+#EXTINF:0,RTP 1 FHD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/731.ts
+#EXTINF:0,RTP 2 FHD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/730.ts
+#EXTINF:0,SIC FHD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/729.ts
+#EXTINF:0,TVI FHD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/728.ts
+#EXTINF:0,RTP 1 (LBR)
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/106.ts
+#EXTINF:0,RTP 2 (LBR)
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/109.ts
+#EXTINF:0,SIC (LBR)
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/118.ts
+#EXTINF:0,TVI (LBR)
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/170.ts
+#EXTINF:0,SIC Noticias
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/124.ts
+#EXTINF:0,RTP 3
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/111.ts
+#EXTINF:0,TVI 24
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/172.ts
+#EXTINF:0,CMTV
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/52.ts
+#EXTINF:0,SIC Radical
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/125.ts
+#EXTINF:0,SIC Mulher
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/123.ts
+#EXTINF:0,TVI Ficção
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/174.ts
+#EXTINF:0,RTP Memória
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/115.ts
+#EXTINF:0,TVI Reality
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/176.ts
+#EXTINF:0,TVI Reality Mosaico
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/175.ts
+#EXTINF:0,TVI Reality Camara Exclusiva 1
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/1186.ts
+#EXTINF:0,TVI Reality Camara Exclusiva 2
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/1187.ts
+#EXTINF:0,TVI Reality Camara Exclusiva 3
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/1188.ts
+#EXTINF:0,TVI Reality Camara Exclusiva 4
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/173.ts
+#EXTINF:0,SIC Caras
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/120.ts
+#EXTINF:0,Dog TV
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/1191.ts
+#EXTINF:0,Canal Q
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/47.ts
+#EXTINF:0,RTP Madeira
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/114.ts
+#EXTINF:0,RTP Açores
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/112.ts
+#EXTINF:0,RTP Africa
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/113.ts
+#EXTINF:0,Porto Canal
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/102.ts
+#EXTINF:0,RTP Internacional
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/466.ts
+#EXTINF:0,TVI Internacional
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/447.ts
+#EXTINF:0,TPA Internacional
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/85.ts
+#EXTINF:0,BBC World News
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/2.ts
+#EXTINF:0,Económico TV HD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/7.ts
+#EXTINF:0,Euronews
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/59.ts
+#EXTINF:0,CBS Reality
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/49.ts
+#EXTINF:0,Fashion TV
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/10.ts
+#EXTINF:0,Bloomberg
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/36.ts
+#EXTINF:0,Sky News
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/126.ts
+#EXTINF:0,FOX News
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/73.ts
+#EXTINF:0,Sport TV +
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/1184.ts
+#EXTINF:0,Sport TV + FHD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/480.ts
+#EXTINF:0,Sport TV 1
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/128.ts
+#EXTINF:0,Sport TV 1 HD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/129.ts
+#EXTINF:0,Sport TV 1 HD (ALT)
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/481.ts
+#EXTINF:0,Sport TV 1 HD (LBR)
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/139.ts
+#EXTINF:0,Sport TV 1 FHD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/140.ts
+#EXTINF:0,Sport TV 1 FHD (ALT)
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/1185.ts
+#EXTINF:0,Sport TV 2
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/130.ts
+#EXTINF:0,Sport TV 2 HD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/131.ts
+#EXTINF:0,Sport TV 2 HD (LBR)
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/141.ts
+#EXTINF:0,Sport TV 2 FHD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/142.ts
+#EXTINF:0,Sport TV 3
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/132.ts
+#EXTINF:0,Sport TV 3 HD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/144.ts
+#EXTINF:0,Sport TV 3 HD (LBR)
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/143.ts
+#EXTINF:0,Sport TV 3 FHD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/145.ts
+#EXTINF:0,Sport TV 4
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/133.ts
+#EXTINF:0,Sport TV 4 HD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/134.ts
+#EXTINF:0,Sport TV 4 HD (LBR)
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/146.ts
+#EXTINF:0,Sport TV 4 FHD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/147.ts
+#EXTINF:0,Sport TV 5
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/135.ts
+#EXTINF:0,Sport TV 5 HD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/149.ts
+#EXTINF:0,Sport TV 5 HD (LBR)
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/148.ts
+#EXTINF:0,Sport TV 5 FHD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/150.ts
+#EXTINF:0,BTV 1
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/33.ts
+#EXTINF:0,BTV 1 (ALT)
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/1031.ts
+#EXTINF:0,BTV 1 HD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/42.ts
+#EXTINF:0,BTV 1 HD (ALT)
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/1032.ts
+#EXTINF:0,BTV 1 HD (LBR)
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/34.ts
+#EXTINF:0,BTV 1 FHD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/38.ts
+#EXTINF:0,BTV 1 FHD (ALT)
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/1030.ts
+#EXTINF:0,Sporting TV
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/137.ts
+#EXTINF:0,Sporting TV HD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/136.ts
+#EXTINF:0,Sporting TV HD (LBR)
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/138.ts
+#EXTINF:0,A Bola TV
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/37.ts
+#EXTINF:0,Real Madrid TV
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/103.ts
+#EXTINF:0,Chelsea TV
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/50.ts
+#EXTINF:0,Eurosport 1
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/60.ts
+#EXTINF:0,Eurosport 1 FHD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/62.ts
+#EXTINF:0,Eurosport 2
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/61.ts
+#EXTINF:0,Eurosport 2 Xtra FHD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/726.ts
+#EXTINF:0,Eurosport 2 Xtra HD (LBR)
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/985.ts
+#EXTINF:0,Eurosport News
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/63.ts
+#EXTINF:0,Motorvision HD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/87.ts
+#EXTINF:0,Motors TV
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/86.ts
+#EXTINF:0,Kombat Sport
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/14.ts
+#EXTINF:0,Fight Network HD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/64.ts
+#EXTINF:0,Outdoor Channel HD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/95.ts
+#EXTINF:0,Fuel TV
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/75.ts
+#EXTINF:0,Fuel TV HD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/1190.ts
+#EXTINF:0,Disney Channel
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/56.ts
+#EXTINF:0,Disney Junior
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/57.ts
+#EXTINF:0,Disney Junior (ALT)
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/725.ts
+#EXTINF:0,Nickelodeon
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/93.ts
+#EXTINF:0,Cartoon Network
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/48.ts
+#EXTINF:0,Canal Panda
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/96.ts
+#EXTINF:0,Biggs
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/97.ts
+#EXTINF:0,SIC K
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/122.ts
+#EXTINF:0,Baby TV
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/31.ts
+#EXTINF:0,Baby First
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/30.ts
+#EXTINF:0,JimJam
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/82.ts
+#EXTINF:0,TVCine 1 HD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/157.ts
+#EXTINF:0,TVCine 1 HD (ALT)
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/13.ts
+#EXTINF:0,TVCine 1 HD (LBR)
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/156.ts
+#EXTINF:0,TVCine 1 FHD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/16.ts
+#EXTINF:0,TVCine 2 HD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/159.ts
+#EXTINF:0,TVCine 2 HD (LBR)
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/158.ts
+#EXTINF:0,TVCine 2 FHD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/12.ts
+#EXTINF:0,TVCine 3 HD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/161.ts
+#EXTINF:0,TVCine 3 HD (ALT)
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/11.ts
+#EXTINF:0,TVCine 3 HD (LBR)
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/160.ts
+#EXTINF:0,TVCine 3 FHD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/17.ts
+#EXTINF:0,TVCine 4 HD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/163.ts
+#EXTINF:0,TVCine 4 HD (LBR)
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/162.ts
+#EXTINF:0,TVCine 4 FHD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/15.ts
+#EXTINF:0,TVSeries HD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/169.ts
+#EXTINF:0,TVSeries HD (LBR)
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/168.ts
+#EXTINF:0,TVSeries FHD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/9.ts
+#EXTINF:0,Hollywood
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/77.ts
+#EXTINF:0,Hollywood HD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/78.ts
+#EXTINF:0,Cinemundo
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/51.ts
+#EXTINF:0,FOX Movies
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/71.ts
+#EXTINF:0,FOX Movies HD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/72.ts
+#EXTINF:0,FOX HD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/69.ts
+#EXTINF:0,FOX Life HD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/70.ts
+#EXTINF:0,FOX Crime HD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/68.ts
+#EXTINF:0,FOX Comedy
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/66.ts
+#EXTINF:0,FOX Comedy HD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/67.ts
+#EXTINF:0,AXN HD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/27.ts
+#EXTINF:0,AXN HD (LBR)
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/26.ts
+#EXTINF:0,AXN White HD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/29.ts
+#EXTINF:0,AXN White HD (LBR)
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/28.ts
+#EXTINF:0,AXN Black HD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/25.ts
+#EXTINF:0,AXN Black HD (LBR)
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/24.ts
+#EXTINF:0,SyFy
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/151.ts
+#EXTINF:0,SyFy HD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/127.ts
+#EXTINF:0,MOV
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/88.ts
+#EXTINF:0,AMC HD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/1073.ts
+#EXTINF:0,AMC
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/23.ts
+#EXTINF:0,CNN
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/53.ts
+#EXTINF:0,TVE 24 Horas
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/18.ts
+#EXTINF:0,TVE Internacional
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/6.ts
+#EXTINF:0,24 Kitchen HD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/20.ts
+#EXTINF:0,A&E
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/21.ts
+#EXTINF:0,TLC
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/152.ts
+#EXTINF:0,E! Entertainment
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/58.ts
+#EXTINF:0,Travel Channel HD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/155.ts
+#EXTINF:0,Food Network HD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/65.ts
+#EXTINF:0,Fine Living Network HD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/19.ts
+#EXTINF:0,BBC Entertainment
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/32.ts
+#EXTINF:0,SBT
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/116.ts
+#EXTINF:0,RedeTV!
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/105.ts
+#EXTINF:0,Canção Nova
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/4.ts
+#EXTINF:0,PFC
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/99.ts
+#EXTINF:0,Globo
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/727.ts
+#EXTINF:0,Globo Portugal
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/164.ts
+#EXTINF:0,Globo Premium
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/165.ts
+#EXTINF:0,TV Record
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/166.ts
+#EXTINF:0,TV Record HD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/167.ts
+#EXTINF:0,Globo News
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/117.ts
+#EXTINF:0,Record News
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/104.ts
+#EXTINF:0,MTV Portugal
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/89.ts
+#EXTINF:0,MTV Portugal HD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/1.ts
+#EXTINF:0,VH1
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/178.ts
+#EXTINF:0,VH1 Classic
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/5.ts
+#EXTINF:0,MCM Pop
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/83.ts
+#EXTINF:0,Trace Urban
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/154.ts
+#EXTINF:0,Sundance HD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/1189.ts
+#EXTINF:0,Trace Urban HD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/3.ts
+#EXTINF:0,iConcerts HD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/81.ts
+#EXTINF:0,C Music TV
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/43.ts
+#EXTINF:0,Afro Music Channel
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/22.ts
+#EXTINF:0,Discovery Channel
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/54.ts
+#EXTINF:0,Discovery Showcase HD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/55.ts
+#EXTINF:0,National Geographic Channel HD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/92.ts
+#EXTINF:0,Nat Geo Wild
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/90.ts
+#EXTINF:0,Nat Geo Wild HD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/91.ts
+#EXTINF:0,História
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/46.ts
+#EXTINF:0,Odisseia
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/94.ts
+#EXTINF:0,MCS Extreme
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/8.ts
+#EXTINF:0,MCS LifeStyle
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/84.ts
+#EXTINF:0,Toros TV
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/153.ts
+#EXTINF:0,Caçavision
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/45.ts
+#EXTINF:0,Caça e Pesca
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/44.ts
+#EXTINF:0,Redlight HD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/1192.ts
+#EXTINF:0,Hustler HD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/1193.ts
+#EXTINF:0,Sextreme
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/108.ts
+#EXTINF:0,Playboy TV
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/100.ts
+#EXTINF:0,Playboy TV HD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/101.ts
+#EXTINF:0,HOT
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/79.ts
+#EXTINF:0,HOT HD
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/80.ts
+#EXTINF:0,Penthouse HD1
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/98.ts
+#EXTINF:0,Venus
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/177.ts
+#EXTINF:0,RADIOS (PT)
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/465.ts
+#EXTINF:0,Total FM
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/448.ts
+#EXTINF:0,Oxigenio
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/452.ts
+#EXTINF:0,94 FM
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/455.ts
+#EXTINF:0,Rádio Nova Era
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/923.ts
+#EXTINF:0,Mega HITS
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/453.ts
+#EXTINF:0,Hiper Fm
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/456.ts
+#EXTINF:0,RFM
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/454.ts
+#EXTINF:0,80s RFM
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/457.ts
+#EXTINF:0,Radio Orbital
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/458.ts
+#EXTINF:0,Radio Renascenca
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/451.ts
+#EXTINF:0,TSF
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/450.ts
+#EXTINF:0,Radio Kizomba
+http://149.202.196.81:8000/live/i632m0BHo4/IyPwiLielG/449.ts
+
+
+
+
+
+
+
 #EXTINF:0,PORTUGAL
 http://0.0.0.0:1234
 
