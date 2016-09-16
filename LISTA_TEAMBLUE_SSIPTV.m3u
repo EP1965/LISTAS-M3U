@@ -5,18 +5,15 @@ http://0.0.0.0:1234
 
 #EXTINF:-1,RTP 1 *
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
-#EXTINF:-1,RTP 1 *
-http://83.78.191.43:2038/
+
 
 #EXTINF:0,RTP 2 *
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
-#EXTINF:-1,RTP 2
-http://83.78.191.43:2039/
+
 
 #EXTINF:-1,RTP 3 *
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
-#EXTINF:-1,RTP 3
-http://83.78.191.43:2040/
+
 
 
 #EXTINF:0,RTP ACORES *
@@ -24,8 +21,7 @@ http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/pl
 
 #EXTINF:0,RTP AFRICA *
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
-#EXTINF:-1,RTP AFRICA
-http://83.78.191.43:2041/
+
  
 
 
@@ -43,8 +39,9 @@ http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmem.smil/playl
 #EXTINF:0,SIC *
 http://live.impresa.pt/live/sic/sic540p.m3u8
 #EXTINF:0,SIC
-http://178.162.199.155:8088/live/sic93/playlist.m3u8?id=87200&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702  
-
+http://178.162.199.155:8088/live/sic93/playlist.m3u8?id=87200&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702
+#EXTINF:0,SIC
+http://live.impresa.pt/live/sic/sic540p.m3u8
 
 #EXTINF:-1,SIC NOTICIAS *
 http://213.13.26.11:1935/live/sicnoticias/livestream.m3u8
@@ -53,9 +50,6 @@ rtsp://213.13.26.11:1935/live/sicnoticias
 #EXTINF:-1,SIC NOTÍCIAS
 http://213.13.26.11:1935/live/sicnoticias/KodiPortugal.pt.m3u8
 
-
-#EXTINF:-1,SIC CARAS *
-http://83.78.191.43:2043/
 
 #EXTINF:0,SIC MULHER *
 http://5.63.149.236:8088/live/sicm02/playlist.m3u8?id=85250&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702
@@ -93,18 +87,6 @@ rtsp://213.13.26.13:1935/live/portocanal
 #EXTINF:0,PORTO CANAL
 rtsp://213.13.26.11:1935/live/portocanal
 
-#EXTINF:-1,CMTV *
-http://83.78.191.43:2012/
-
-
-
-
-#EXTINF:-1,SPORT TV 1 *
-http://83.78.191.43:2047/
-
-
-#EXTINF:-1,SPORT TV 2 *
-http://83.78.191.43:2048/
 
 
 #EXTINF:-1,SPORT TV 3 *
@@ -119,16 +101,6 @@ http://163.172.165.95:8081/live/sporttv5-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3
 
 #EXTINF:0,A BOLA *
 http://178.162.211.231:8088/stream/BOLAAAA383893899/playlist.m3u8?id=27441&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702
-
-
-
-
-
-
-#EXTINF:-1,KOMBAT SPORT *
-http://83.78.191.43:2027/
-
-
 
 
 
@@ -163,23 +135,23 @@ http://146.185.16.60:8088/live/sical/playlist.m3u8?id=24913&pk=ea6596833839e5074
 
 
 #EXTINF:-1,HOLLYWOOD *
-http://83.78.191.43:2025/
+
 
 
 #EXTINF:-1,TV CINE 1 *
-http://83.78.191.43:2053/
+
 
 #EXTINF:0,TV CINE 2 *
-http://83.78.191.43:2054/
+
 
 #EXTINF:-1,TV CINE 3 *
-http://83.78.191.43:2055/
+
 
 #EXTINF:0,TV CINE 4 *
-http://83.78.191.43:2056/
+
 
 #EXTINF:-1,TV SERIES *
-http://83.78.191.43:2059/
+
 
 
 
