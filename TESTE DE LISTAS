@@ -324,9 +324,9 @@
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] 24 KITCHEN [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1187.ts;streamtype=TSDOWNLOADER&amp;name=24 KITCHEN (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/num/24_kitchen_us.png</thumbnail></item>
 
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] 24 KITCHEN [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://www.tvtuga.com/antena-3-espanha/</link><thumbnail>http://www.lyngsat-logo.com/hires/num/24_kitchen_us.png</thumbnail></item>
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] 24 KITCHEN [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title><sportsdevil>http://www.tvtuga.com/antena-3-espanha/</sportsdevil><referer>http://ucaster.eu/</referer><thumbnail>http://www.lyngsat-logo.com/hires/num/24_kitchen_us.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] 24 KITCHEN [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title><sportsdevil>http://www.tvtuga.com/antena-3-espanha/</sportsdevil><referer>http://www.tvtuga.com</referer><thumbnail>http://www.lyngsat-logo.com/hires/num/24_kitchen_us.png</thumbnail></item>
 
 
 
