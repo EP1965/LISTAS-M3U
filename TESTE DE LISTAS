@@ -67,7 +67,7 @@
 
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] CANCAO NOVA [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8</link><thumbnail>http://www.lyngsat-logo.com/hires/tt/tv_cancao_nova_pt.png</thumbnail></item>
 
-
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] CANCAO NOVA [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title><sportsdevil>http://www.tvtuga.com/tv-cancao-nova-portugal/</sportsdevil><referer>http://www.tvtuga.com</referer><thumbnail>http://www.lyngsat-logo.com/hires/tt/tv_cancao_nova_pt.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] CMTV [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/2078.ts;streamtype=TSDOWNLOADER&amp;name=CMTV (by TeamBlue)</link><thumbnail>http://i.imgur.com/dMiWcSV.png</thumbnail></item>
 
@@ -95,7 +95,7 @@
 
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] EURONEWS [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_pt.m3u8</link><thumbnail>http://www.lyngsat-logo.com/hires/ee/euronews_fr.png</thumbnail></item>
 
-
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] EURONEWS [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title><sportsdevil>http://www.tvtuga.com/euronews-portugal-portugues/</sportsdevil><referer>http://www.tvtuga.com</referer><thumbnail>http://www.lyngsat-logo.com/hires/ee/euronews_fr.png</thumbnail></item>
 
 
 
@@ -135,9 +135,9 @@
 
 
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] AR TV [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://193.126.16.67/LiveXtendRecorder/2liveartvtmp/chunklist_w1713826381.m3u8</link><thumbnail>http://www.lyngsat-logo.com/tv/c_1.html</thumbnail></item>
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] AR TV [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://193.126.16.67/LiveXtendRecorder/2liveartvtmp/chunklist_w1713826381.m3u8</link><thumbnail>http://www.lyngsat.com/logo/tv/cc/canal_parlamento_por.png</thumbnail></item>
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] AR TV [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title><sportsdevil>http://www.tvtuga.com/artv-canal-parlamento/</sportsdevil><referer>http://www.tvtuga.com</referer><thumbnail>http://www.lyngsat-logo.com/tv/c_1.html</thumbnail></item>
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] AR TV [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title><sportsdevil>http://www.tvtuga.com/artv-canal-parlamento/</sportsdevil><referer>http://www.tvtuga.com</referer><thumbnail>http://www.lyngsat.com/logo/tv/cc/canal_parlamento_por.png</thumbnail></item>
 
 
 
@@ -550,7 +550,7 @@
 
 
 
-
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] CANAL PANDA [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title><sportsdevil>http://pt.internet-television.net/2930-canal-panda.html</sportsdevil><referer>http://www.tvtuga.com</referer><thumbnail>http://www.lyngsat-logo.com/hires/cc/canal_panda_pt.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] CARTOON NETWORK [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1161.ts;streamtype=TSDOWNLOADER&amp;name=CARTOON NETWORK (by TeamBlue)</link><thumbnail>http://i.imgur.com/EuQiOf1.png</thumbnail></item>
 
