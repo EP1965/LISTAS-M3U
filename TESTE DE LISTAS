@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] RTP 1 [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1119.ts;streamtype=TSDOWNLOADER&amp;name=RTP 1 (by TeamBlue)</link><thumbnail>http://i.imgur.com/nwF46j7.png</thumbnail></item>
-
-
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] RTP 1 [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1119.ts;streamtype=TSDOWNLOADER&amp;name=RTP 1 (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1119.ts;streamtype=TSDOWNLOADER&amp;name=RTP 1 (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1119.ts;streamtype=TSDOWNLOADER&amp;name=RTP 1 (by TeamBlue)</link><thumbnail>http://i.imgur.com/nwF46j7.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] RTP 1 [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)</link><thumbnail>http://i.imgur.com/nwF46j7.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] RTP 1 [B][COLOR red](RTMP)[/B][/COLOR]</title><link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15  </link><thumbnail>http://i.imgur.com/nwF46j7.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] RTP 1 [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title><sportsdevil>http://www.rtp.pt/play/direto/rtp1</sportsdevil><referer>http://www.rtp.pt/</referer><thumbnail>http://i.imgur.com/nwF46j7.png</thumbnail></item>
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] RTP 2 [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1120.ts;streamtype=TSDOWNLOADER&amp;name=RTP 2 (by TeamBlue)</link><thumbnail>http://i.imgur.com/yAOu09B.png</thumbnail></item>
-
-
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] RTP 2 [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1120.ts;streamtype=TSDOWNLOADER&amp;name=RTP 2 (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1120.ts;streamtype=TSDOWNLOADER&amp;name=RTP 2 (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1120.ts;streamtype=TSDOWNLOADER&amp;name=RTP 2 (by TeamBlue)</link><thumbnail>http://i.imgur.com/yAOu09B.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] RTP 2 [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)</link><thumbnail>http://i.imgur.com/yAOu09B.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] RTP 2 [B][COLOR red](RTMP)[/B][/COLOR]</title><link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp2?mag swfVfy=1 live=1 timeout=15  </link><thumbnail>http://i.imgur.com/yAOu09B.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] RTP 2 [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title><sportsdevil>http://www.rtp.pt/play/direto/rtp2</sportsdevil><referer>http://www.rtp.pt/</referer><thumbnail>http://i.imgur.com/yAOu09B.png</thumbnail></item>
 
-
-
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] SIC [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1121.ts;streamtype=TSDOWNLOADER&amp;name=SIC (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1121.ts;streamtype=TSDOWNLOADER&amp;name=SIC (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] SIC [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://live.impresa.pt/live/sic/sic540p.m3u8</link><thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] SIC [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title><sportsdevil>http://www.estadiofutebol.com/gratis/sic</sportsdevil><referer>http://ucaster.eu/</referer><thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt.png</thumbnail></item>
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] TVI [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1122.ts;streamtype=TSDOWNLOADER&amp;name=TVI (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/tt/tvi_pt.png</thumbnail></item>
-
-
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] TVI [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1122.ts;streamtype=TSDOWNLOADER&amp;name=TVI (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1122.ts;streamtype=TSDOWNLOADER&amp;name=TVI (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1122.ts;streamtype=TSDOWNLOADER&amp;name=TVI (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/tt/tvi_pt.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] TVI [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8</link><thumbnail>http://www.lyngsat-logo.com/hires/tt/tvi_pt.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] TVI [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title><sportsdevil>http://www.estadiofutebol.com/gratis/tvi</sportsdevil><referer>http://ezcast.tv/</referer><thumbnail>http://www.lyngsat-logo.com/hires/tt/tvi_pt.png</thumbnail></item>
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] PORTO CANAL [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1130.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL (by TeamBlue)</link><thumbnail>http://i.imgur.com/HVBkpWS.png</thumbnail></item>
-
-
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] PORTO CANAL [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1130.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1130.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1130.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL (by TeamBlue)</link><thumbnail>http://i.imgur.com/HVBkpWS.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] PORTO CANAL [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://213.13.26.11:1935/live/portocanal/magellan.m3u8</link><thumbnail>http://i.imgur.com/HVBkpWS.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] PORTO CANAL [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title><sportsdevil>http://www.desportonline.com/index.php?canal=portocanal</sportsdevil><referer>http://www.sportvdireto.online</referer><thumbnail>http://i.imgur.com/HVBkpWS.png</thumbnail></item>
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] RTP ACORES [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/805.ts;streamtype=TSDOWNLOADER&amp;name=RTP ACORES (by TeamBlue)</link><thumbnail>http://i.imgur.com/om9BKuk.png</thumbnail></item>
-
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] RTP ACORES [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/805.ts;streamtype=TSDOWNLOADER&amp;name=RTP ACORES (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/805.ts;streamtype=TSDOWNLOADER&amp;name=RTP ACORES (by TeamBlue)</link><thumbnail>http://i.imgur.com/om9BKuk.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] RTP ACORES [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)</link><thumbnail>http://i.imgur.com/om9BKuk.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] RTP ACORES [B][COLOR red](RTMP)[/B][/COLOR]</title><link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtprtpacores?mag swfVfy=1 live=1 timeout=15</link><thumbnail>http://i.imgur.com/om9BKuk.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] RTP ACORES [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title><sportsdevil>http://www.rtp.pt/play/direto/rtpacores</sportsdevil><referer>http://www.rtp.pt/play/</referer><thumbnail>http://i.imgur.com/om9BKuk.png</thumbnail></item>
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] RTP AFRICA [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/809.ts;streamtype=TSDOWNLOADER&amp;name=RTP AFRICA (by TeamBlue)</link><thumbnail>http://i.imgur.com/YWi6NzU.png</thumbnail></item>
-
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] RTP AFRICA [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/809.ts;streamtype=TSDOWNLOADER&amp;name=RTP AFRICA (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/809.ts;streamtype=TSDOWNLOADER&amp;name=RTP AFRICA (by TeamBlue)</link><thumbnail>http://i.imgur.com/YWi6NzU.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] RTP AFRICA [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)</link><thumbnail>http://i.imgur.com/YWi6NzU.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] RTP AFRICA [B][COLOR red](RTMP)[/B][/COLOR]</title><link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtpafrica?mag swfVfy=1 live=1 timeout=15</link><thumbnail>http://i.imgur.com/YWi6NzU.png</thumbnail></item>
@@ -56,8 +56,8 @@
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] RTP INTERNACIONAL [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title><sportsdevil>http://www.rtp.pt/play/direto/rtpinternacional</sportsdevil><referer>http://www.rtp.pt/play/</referer><thumbnail>http://i.imgur.com/YPL4ncR.png</thumbnail></item>
 
 
-
-
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] RTP MADEIRA [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=RTP MADEIRA (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=RTP MADEIRA (by TeamBlue)</link><thumbnail>http://i.imgur.com/EQk4X7n.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] RTP MADEIRA [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)</link><thumbnail>http://i.imgur.com/EQk4X7n.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] RTP MADEIRA [B][COLOR red](RTMP)[/B][/COLOR]</title><link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtpmadeira?mag swfVfy=1 live=1 timeout=15</link><thumbnail>http://i.imgur.com/EQk4X7n.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] RTP MADEIRA [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title><sportsdevil>http://www.rtp.pt/play/direto/rtpmadeira</sportsdevil><referer>http://www.rtp.pt/play/</referer><thumbnail>http://i.imgur.com/EQk4X7n.png</thumbnail></item>
@@ -67,12 +67,12 @@
 
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] CANCAO NOVA [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8</link><thumbnail>http://www.lyngsat-logo.com/hires/tt/tv_cancao_nova_pt.png</thumbnail></item>
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] CANCAO NOVA [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title><sportsdevil>http://www.tvtuga.com/tv-cancao-nova-portugal/</sportsdevil><referer>http://www.tvtuga.com</referer><thumbnail>http://www.lyngsat-logo.com/hires/tt/tv_cancao_nova_pt.png</thumbnail></item>
-
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] CMTV [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/2078.ts;streamtype=TSDOWNLOADER&amp;name=CMTV (by TeamBlue)</link><thumbnail>http://i.imgur.com/dMiWcSV.png</thumbnail></item>
 
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] CMTV [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://163.172.40.163/loadbalance/14754455842767291813/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDE2IDg6MDU6NDcgQU0maGFzaF92YWx1ZT1BaENpaVVQMGdaN3lWNndKQzJGYXJBPT0mdmFsaWRtaW51dGVzPTE=|User-Agent=iPad</link><thumbnail>http://i.imgur.com/dMiWcSV.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] CMTV [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/498.ts;streamtype=TSDOWNLOADER&amp;name=CMTV (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/498.ts;streamtype=TSDOWNLOADER&amp;name=CMTV (by TeamBlue)</link><thumbnail>http://i.imgur.com/dMiWcSV.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] CMTV [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://163.172.39.15/loadbalance/14754455842767291813/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDE2IDg6NDQ6MjYgQU0maGFzaF92YWx1ZT1nVXpzY1VWZmE3bzhKckxPZjRONTFRPT0mdmFsaWRtaW51dGVzPTE=|User-Agent=iPad</link><thumbnail>http://i.imgur.com/dMiWcSV.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] CMTV [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title><sportsdevil>http://www.estadiofutebol.com/gratis/cmtv</sportsdevil><referer>http://www.liveflashplayer.net/</referer><thumbnail>http://i.imgur.com/dMiWcSV.png</thumbnail></item>
 
@@ -95,7 +95,7 @@
 
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] EURONEWS [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_pt.m3u8</link><thumbnail>http://www.lyngsat-logo.com/hires/ee/euronews_fr.png</thumbnail></item>
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] EURONEWS [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title><sportsdevil>http://www.tvtuga.com/euronews-portugal-portugues/</sportsdevil><referer>http://www.tvtuga.com</referer><thumbnail>http://www.lyngsat-logo.com/hires/ee/euronews_fr.png</thumbnail></item>
+
 
 
 
@@ -111,24 +111,24 @@
 
 
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] RTP 3 [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/425.ts;streamtype=TSDOWNLOADER&amp;name=RTP 3 (by TeamBlue)</link><thumbnail>http://i.imgur.com/UqZdQqJ.png</thumbnail></item>
-
-
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] RTP 3 [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/425.ts;streamtype=TSDOWNLOADER&amp;name=RTP 3 (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/425.ts;streamtype=TSDOWNLOADER&amp;name=RTP 3 (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/425.ts;streamtype=TSDOWNLOADER&amp;name=RTP 3 (by TeamBlue)</link><thumbnail>http://i.imgur.com/UqZdQqJ.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] RTP 3 [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)</link><thumbnail>http://i.imgur.com/UqZdQqJ.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] RTP 3 [B][COLOR red](RTMP)[/B][/COLOR]</title><link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp3?mag swfVfy=1 live=1 timeout=15</link><thumbnail>http://i.imgur.com/UqZdQqJ.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] RTP 3 [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title><sportsdevil>http://www.rtp.pt/play/direto/rtp3</sportsdevil><referer>http://www.rtp.pt/play/</referer><thumbnail>http://i.imgur.com/UqZdQqJ.png</thumbnail></item>
 
 
-
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] SIC NOTICIAS [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=SIC NOTICIAS (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_noticias.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] SIC NOTICIAS [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://213.13.26.11:1935/live/sicnoticias/KodiPortugal.pt.m3u8</link><thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_noticias.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] SIC NOTICIAS [B][COLOR red](RTMP)[/B][/COLOR]</title><link>rtmp://213.13.26.43/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=http://tviol.com/tv/sicnoticias.html</link><thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_noticias.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] SIC NOTICIAS [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title><sportsdevil>http://www.europeu2016.net/index.php?canal=sicnoticias</sportsdevil><referer>http://ucaster.eu/</referer><thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_noticias.png</thumbnail></item>
-
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] TVI 24 [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/808.ts;streamtype=TSDOWNLOADER&amp;name=TVI 24 (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/tt/tvi_24.png</thumbnail></item>
 
 
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] TVI 24 [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/808.ts;streamtype=TSDOWNLOADER&amp;name=TVI 24 (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/808.ts;streamtype=TSDOWNLOADER&amp;name=TVI 24 (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/tt/tvi_24.png</thumbnail></item>
 
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] TVI 24 [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8</link><thumbnail>http://www.lyngsat-logo.com/hires/tt/tvi_24.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] TVI 24 [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title><sportsdevil>http://www.tvtuga.com/tvi-24/</sportsdevil><referer>http://ezcast.tv</referer><thumbnail>http://www.lyngsat-logo.com/hires/tt/tvi_24.png</thumbnail></item>
 
@@ -170,7 +170,7 @@
 
 
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] TVE 24 [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8</link><thumbnail>http://www.lyngsat-logo.com/hires/tt/tve_canal_24horas.png</thumbnail></item>
+
 
 
 
@@ -182,6 +182,7 @@
 
 
 
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] AeE [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=AeE (by TeamBlue)</link><thumbnail>http://i.imgur.com/u7IKaDs.png</thumbnail></item>
 
 
 
@@ -195,69 +196,65 @@
 
 
 
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] CANAL Q [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=CANAL Q (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/cc/canal_q.png</thumbnail></item>
 
 
 
 
 
 
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] CBS REALITY [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=CBS REALITY (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/tt/tvi_reality_pt.png</thumbnail></item>
 
 
 
 
 
-
-
-
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] E! [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1415.ts;streamtype=TSDOWNLOADER&amp;name=E! (by TeamBlue)</link><thumbnail>http://i.imgur.com/Ta2wvuo.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] E! [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1415.ts;streamtype=TSDOWNLOADER&amp;name=E! (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1415.ts;streamtype=TSDOWNLOADER&amp;name=E! (by TeamBlue)</link><thumbnail>http://i.imgur.com/Ta2wvuo.png</thumbnail></item>
 
 
 
 
 
-
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] RTP MEMORIA [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1410.ts;streamtype=TSDOWNLOADER&amp;name=RTP MEMORIA (by TeamBlue)</link><thumbnail>http://i.imgur.com/lWlG90R.png</thumbnail></item>
-
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] RTP MEMORIA [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1410.ts;streamtype=TSDOWNLOADER&amp;name=RTP MEMORIA (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1410.ts;streamtype=TSDOWNLOADER&amp;name=RTP MEMORIA (by TeamBlue)</link><thumbnail>http://i.imgur.com/lWlG90R.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] RTP MEMORIA [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmem.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)</link><thumbnail>http://i.imgur.com/lWlG90R.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] RTP MEMORIA [B][COLOR red](RTMP)[/B][/COLOR]</title><link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmemoria?mag swfVfy=1 live=1 timeout=15</link><thumbnail>http://i.imgur.com/lWlG90R.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] RTP MEMORIA [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title><sportsdevil>http://www.rtp.pt/play/direto/rtpmemoria</sportsdevil><referer>http://www.rtp.pt/play/</referer><thumbnail>http://i.imgur.com/lWlG90R.png</thumbnail></item>
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] SIC CARAS [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1422.ts;streamtype=TSDOWNLOADER&amp;name=SIC CARAS (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_caras.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] SIC CARAS [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1422.ts;streamtype=TSDOWNLOADER&amp;name=SIC CARAS (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1422.ts;streamtype=TSDOWNLOADER&amp;name=SIC CARAS (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_caras.png</thumbnail></item>
 
 
 
 
 
-
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] SIC MULHER [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1380.ts;streamtype=TSDOWNLOADER&amp;name=SIC MULHER (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_mulher.png</thumbnail></item>
-
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] SIC MULHER [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1380.ts;streamtype=TSDOWNLOADER&amp;name=SIC MULHER (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1380.ts;streamtype=TSDOWNLOADER&amp;name=SIC MULHER (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_mulher.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] SIC MULHER [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://178.162.199.155:8088/live/sicm02/playlist.m3u8?id=85250&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702</link><thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_mulher.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] SIC MULHER [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title><sportsdevil>http://www.estadiofutebol.com/gratis/sicmulher</sportsdevil><referer>http://ucaster.eu/</referer><thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_mulher.png</thumbnail></item>
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] SIC RADICAL [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1663.ts;streamtype=TSDOWNLOADER&amp;name=SIC RADICAL (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_radical.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] SIC RADICAL [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1159.ts;streamtype=TSDOWNLOADER&amp;name=SIC RADICAL (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1159.ts;streamtype=TSDOWNLOADER&amp;name=SIC RADICAL (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_radical.png</thumbnail></item>
 
 
 
 
 
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] TVI FICCAO [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1126.ts;streamtype=TSDOWNLOADER&amp;name=TVI FICCAO (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1126.ts;streamtype=TSDOWNLOADER&amp;name=TVI FICCAO (by TeamBlue)</link><thumbnail>http://i.imgur.com/1OKBioL.png</thumbnail></item>
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] TVI FICCAO [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1126.ts;streamtype=TSDOWNLOADER&amp;name=TVI FICCAO (by TeamBlue)</link><thumbnail>http://i.imgur.com/1OKBioL.png</thumbnail></item>
-
-
-
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] TVI FICCAO [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://95.211.214.158:8088/live/tvicrl/playlist.m3u8?id=24273&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702</link><thumbnail>http://i.imgur.com/1OKBioL.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] TVI FICCAO [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title><sportsdevil>http://www.estadiofutebol.com/gratis/tvificcao</sportsdevil><referer>http://ezcast.tv/</referer><thumbnail>http://i.imgur.com/1OKBioL.png</thumbnail></item>
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] TVI REALITY [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/2050.ts;streamtype=TSDOWNLOADER&amp;name=TVI REALITY (by TeamBlue)</link><thumbnail>http://i.imgur.com/D9HZ95f.png</thumbnail></item>
 
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] TVI REALITY [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=TVI REALITY (by TeamBlue)</link><thumbnail>http://i.imgur.com/D9HZ95f.png</thumbnail></item>
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] TVI REALITY [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://109.123.117.212:8088/live/ss6estreia/playlist.m3u8?id=252650&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702</link><thumbnail>http://i.imgur.com/D9HZ95f.png</thumbnail></item>
-
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] TVI REALITY [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title><sportsdevil>http://www.europeu2016.net/index.php?canal=secretstory</sportsdevil><referer>http://ezcast.tv/</referer><thumbnail>http://i.imgur.com/D9HZ95f.png</thumbnail></item>
-
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] TVI REALITY [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://46.28.51.164:8088/live/ss6estreia2/playlist.m3u8?id=253010&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702</link><thumbnail>http://i.imgur.com/D9HZ95f.png</thumbnail></item>
 
 
 
@@ -300,22 +297,25 @@
 
 
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] GLOBO PORTUGAL [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1646.ts;streamtype=TSDOWNLOADER&amp;name=GLOBO PORTUGAL (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/tt/tv_globo_pt.png</thumbnail></item>
-
-
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] GLOBO PORTUGAL [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://31.204.153.115:8081/live/globok/playlist.m3u8</link><thumbnail>http://www.lyngsat-logo.com/hires/tt/tv_globo_pt.png</thumbnail></item>
 
 
 
-
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] GLOBO PORTUGAL [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1390.ts;streamtype=TSDOWNLOADER&amp;name=GLOBO PORTUGAL (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1390.ts;streamtype=TSDOWNLOADER&amp;name=GLOBO PORTUGAL (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/tt/tv_globo_pt.png</thumbnail></item>
 
 
 
 
 
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] RECORD [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1644.ts;streamtype=TSDOWNLOADER&amp;name=RECORD (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/rr/rede_record_br.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] GLOBO PREMIUM [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=GLOBO PREMIUM (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/tt/tv_globo_premium.png</thumbnail></item>
 
+
+
+
+
+
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] RECORD [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=RECORD (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/rr/rede_record_br.png</thumbnail></item>
 
 
 
@@ -357,21 +357,21 @@
 
 
 
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] TLC [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=TLC (by TeamBlue)</link><thumbnail>http://i.imgur.com/ZfEc8g5.png</thumbnail></item>
 
 
 
 
 
 
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] TRAVEL [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=TRAVEL (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/tt/travel_channel_asia.png</thumbnail></item>
 
 
 
 
 
 
-
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] A BOLA TV [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/2486.ts;streamtype=TSDOWNLOADER&amp;name=A BOLA TV (by TeamBlue)</link><thumbnail>http://i.imgur.com/aDTQAYr.png</thumbnail></item>
-
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] A BOLA TV [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=A BOLA TV (by TeamBlue)</link><thumbnail>http://i.imgur.com/aDTQAYr.png</thumbnail></item>
 
 
 
@@ -384,15 +384,15 @@
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] BTV [B][COLOR red](RTMP)[/B][/COLOR]</title><link>rtmp://31.220.40.62/privatestream/ app=privatestream/ playpath=gergtrg?keys=bgTVSHj_R7k44rqRvZCNUQ&keyt;=1471708579 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=gergtrg</link><thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/benfica_tv.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] BTV [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title><sportsdevil>http://www.desportonline.com/index.php?canal=benficatv</sportsdevil><referer>http://mytvfree.me/ver/benfica-tv-direto</referer><thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/benfica_tv.png</thumbnail></item>
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] EUROSPORT 1 [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1413.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 1 (by TeamBlue)</link><thumbnail>http://i.imgur.com/r1Tu1zq.jpg</thumbnail></item>
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] EUROSPORT 1 [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1413.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 1 (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1413.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 1 (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1413.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 1 (by TeamBlue)</link><thumbnail>http://i.imgur.com/r1Tu1zq.jpg</thumbnail></item>
 
-
-
-
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] EUROSPORT 1 [B][COLOR red](RTMP)[/B][/COLOR]</title><link>rtmp://31.220.40.59/privatestream/ playpath=euros1?keys=udtuM0jEV0Kf5-H18JlpZw&keyt;=1473439949 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf</link><thumbnail>http://i.imgur.com/r1Tu1zq.jpg</thumbnail></item>
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] EUROSPORT 1 [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title><sportsdevil>http://www.europeu2016.net/index.php?canal=eurosport</sportsdevil><referer>http://escast.tv/</referer><thumbnail>http://i.imgur.com/r1Tu1zq.jpg</thumbnail></item>
 
 
-
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] EUROSPORT 2 [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2 (by TeamBlue)</link><thumbnail>http://i.imgur.com/oRM8F2Y.jpg</thumbnail></item>
 
 
 
@@ -406,6 +406,14 @@
 
 
 
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] EUROSPORT NEWS [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=EUROSPORT NEWS (by TeamBlue)</link><thumbnail>http://i.imgur.com/rEq334P.jpg</thumbnail></item>
+
+
+
+
+
+
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] FUEL TV [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=FUEL TV (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/ff/fuel_tv_eu.png</thumbnail></item>
 
 
 
@@ -429,26 +437,18 @@
 
 
 
-
-
-
-
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] MOTORS TV [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1678.ts;streamtype=TSDOWNLOADER&amp;name=MOTORS TV (by TeamBlue)</link><thumbnail>http://i.imgur.com/uIxVBmG.png</thumbnail></item>
-
-
-
-
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] MOTORS TV [B][COLOR red](RTMP)[/B][/COLOR]</title><link>rtmp://178.162.199.73/live playpath=motorstvx?id=83213&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=</link><thumbnail>http://i.imgur.com/uIxVBmG.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] MOTORS TV [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title><sportsdevil>http://www.europeu2016.net/index.php?canal=motorstv</sportsdevil><referer>http://ucaster.eu/</referer><thumbnail>http://i.imgur.com/uIxVBmG.png</thumbnail></item>
 
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] MOTORVISION TV [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1131.ts;streamtype=TSDOWNLOADER&amp;name=MOTORVISION TV (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1131.ts;streamtype=TSDOWNLOADER&amp;name=MOTORVISION TV (by TeamBlue)</link><thumbnail>http://i.imgur.com/ixMRmkM.png</thumbnail></item>
 
 
 
 
 
 
-
-
-
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] PFC [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=PFC (by TeamBlue)</link><thumbnail>http://i.imgur.com/j3ZgJkr.png</thumbnail></item>
 
 
 
@@ -468,23 +468,23 @@
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] SPORT TV 1 [B][COLOR red](RTMP)[/B][/COLOR]</title><link>rtmp://31.220.40.62/privatestream/ app=privatestream/ playpath=fawergge?keys=6FwFzBwoArVD7GnroNTCwg&keyt;=1471185155 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=fawergge</link><thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] SPORT TV 1 [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title><sportsdevil>http://cdn2.zuuk.org/sporttv.php?width=599&height=399</sportsdevil><referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer><thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail></item>
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] SPORT TV 2 [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/1602.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by TeamBlue)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/1602.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by TeamBlue)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/1602.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by TeamBlue)</link><thumbnail>http://i.imgur.com/fsgRDjH.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] SPORT TV 2 [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/500.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/500.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/500.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by TeamBlue)</link><thumbnail>http://i.imgur.com/fsgRDjH.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] SPORT TV 2 [B][COLOR red](RTMP)[/B][/COLOR]</title><link>rtmp://31.220.0.201/privatestream/he56t5r6?keys=zrd8IHbjrxTjmvn9NTCF1A&keyt;=1471185438 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=he56t5r6&width;=630&height;=510</link><thumbnail>http://i.imgur.com/fsgRDjH.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] SPORT TV 2 [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title><sportsdevil>http://www.desportonline.com/index.php?canal=sporttv2</sportsdevil><referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer><thumbnail>http://i.imgur.com/fsgRDjH.png</thumbnail></item>
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] SPORT TV 3 [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://37.187.29.23:8000/live/uaug0607x/vS7vk43q4o/2074.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 (by TeamBlue)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://37.187.29.23:8000/live/uaug0607x/vS7vk43q4o/2074.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 (by TeamBlue)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://37.187.29.23:8000/live/uaug0607x/vS7vk43q4o/2074.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 (by TeamBlue)</link><thumbnail>http://i.imgur.com/XvI6JNr.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] SPORT TV 3 [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1135.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1135.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1135.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 (by TeamBlue)</link><thumbnail>http://i.imgur.com/XvI6JNr.png</thumbnail></item>
 
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] SPORT TV 3 [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title><sportsdevil>http://www.desportonline.com/index.php?canal=sporttv3</sportsdevil><referer>http://www.idimsports.eu/watch/408917/3/watch-xonetv.html</referer><thumbnail>http://i.imgur.com/XvI6JNr.png</thumbnail></item>
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] SPORT TV 4 [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1724.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4 (by TeamBlue)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1724.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4 (by TeamBlue)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1724.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4 (by TeamBlue)</link><thumbnail>http://i.imgur.com/IZCGvyl.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] SPORT TV 4 [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1136.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4 (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1136.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4 (by TeamBlue)</link><thumbnail>http://i.imgur.com/IZCGvyl.png</thumbnail></item>
+
 
 
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] SPORT TV 4 [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title><sportsdevil>http://www.europeu2016.net/index.php?canal=sporttv4-2</sportsdevil><referer>http://www.idimsports.eu/watch/408917/3/watch-xonetv.html</referer><thumbnail>http://i.imgur.com/IZCGvyl.png</thumbnail></item>
@@ -494,28 +494,30 @@
 <link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1137.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5 (by TeamBlue)</link><thumbnail>http://i.imgur.com/G8yH187.png</thumbnail></item>
 
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] SPORT TV 5 [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title><sportsdevil>http://www.europeu2016.net/index.php?canal=sporttv5</sportsdevil><referer>http://www.idimsports.eu/watch/408917/3/watch-xonetv.html</referer><thumbnail>http://i.imgur.com/G8yH187.png</thumbnail></item>
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] SPORTING TV [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1141.ts;streamtype=TSDOWNLOADER&amp;name=SPORTING TV (by TeamBlue)</link><thumbnail>http://i.imgur.com/KTEBwY0.png</thumbnail></item>
 
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] SPORTING TV [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1141.ts;streamtype=TSDOWNLOADER&amp;name=SPORTING TV (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1141.ts;streamtype=TSDOWNLOADER&amp;name=SPORTING TV (by TeamBlue)</link><thumbnail>http://i.imgur.com/KTEBwY0.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] SPORTING TV [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://109.123.117.212:8088/live/sporiherdz/playlist.m3u8?id=251856&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702</link><thumbnail>http://i.imgur.com/KTEBwY0.png</thumbnail></item>
 
 
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] TOROS TV [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/796.ts;streamtype=TSDOWNLOADER&amp;name=TOROS TV (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/tt/toros_tv.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] TOROS TV [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/796.ts;streamtype=TSDOWNLOADER&amp;name=TOROS TV (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/796.ts;streamtype=TSDOWNLOADER&amp;name=TOROS TV (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/tt/toros_tv.png</thumbnail></item>
 
 
 
 
 
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] CACAVISION [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1697.ts;streamtype=TSDOWNLOADER&amp;name=CACAVISION (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cacavision.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] CACAVISION [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=CACAVISION (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cacavision.png</thumbnail></item>
 
 
 
 
 
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] CACA & PESCA [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1383.ts;streamtype=TSDOWNLOADER&amp;name=CACA & PESCA (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/cc/caccia_pesca.png</thumbnail></item>
 
 
 
@@ -523,6 +525,7 @@
 
 
 
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] BABY TV [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=BABY TV (by TeamBlue)</link><thumbnail>http://i.imgur.com/xTAptxu.png</thumbnail></item>
 
 
 
@@ -535,46 +538,57 @@
 
 
 
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] BIGGS [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1166.ts;streamtype=TSDOWNLOADER&amp;name=BIGGS (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1166.ts;streamtype=TSDOWNLOADER&amp;name=BIGGS (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/pp/panda_biggs.png</thumbnail></item>
 
 
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] BIGGS [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1166.ts;streamtype=TSDOWNLOADER&amp;name=BIGGS (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/pp/panda_biggs.png</thumbnail></item>
 
 
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] CANAL PANDA [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1165.ts;streamtype=TSDOWNLOADER&amp;name=CANAL PANDA (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1165.ts;streamtype=TSDOWNLOADER&amp;name=CANAL PANDA (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/cc/canal_panda_pt.png</thumbnail></item>
 
 
 
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] CANAL PANDA [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1165.ts;streamtype=TSDOWNLOADER&amp;name=CANAL PANDA (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/cc/canal_panda_pt.png</thumbnail></item>
 
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] CARTOON NETWORK [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1161.ts;streamtype=TSDOWNLOADER&amp;name=CARTOON NETWORK (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1161.ts;streamtype=TSDOWNLOADER&amp;name=CARTOON NETWORK (by TeamBlue)</link><thumbnail>http://i.imgur.com/EuQiOf1.png</thumbnail></item>
 
 
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] CANAL PANDA [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title><sportsdevil>http://pt.internet-television.net/2930-canal-panda.html</sportsdevil><referer>http://www.tvtuga.com</referer><thumbnail>http://www.lyngsat-logo.com/hires/cc/canal_panda_pt.png</thumbnail></item>
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] CARTOON NETWORK [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1161.ts;streamtype=TSDOWNLOADER&amp;name=CARTOON NETWORK (by TeamBlue)</link><thumbnail>http://i.imgur.com/EuQiOf1.png</thumbnail></item>
 
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] DISNEY CHANNEL [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1162.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1162.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1162.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL (by TeamBlue)</link><thumbnail>http://i.imgur.com/g0UK661.png</thumbnail></item>
 
 
 
 
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] DISNEY JUNIOR [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1213.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY JUNIOR (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1213.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY JUNIOR (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1213.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY JUNIOR (by TeamBlue)</link><thumbnail>http://i.imgur.com/CZvsFYH.png</thumbnail></item>
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] DISNEY CHANNEL [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1162.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL (by TeamBlue)</link><thumbnail>http://i.imgur.com/g0UK661.png</thumbnail></item>
 
 
 
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] JIMJAM [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1423.ts;streamtype=TSDOWNLOADER&amp;name=JIMJAM (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1423.ts;streamtype=TSDOWNLOADER&amp;name=JIMJAM (by TeamBlue)</link><thumbnail>http://i.imgur.com/b6Mhyk9.png</thumbnail></item>
 
 
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] DISNEY JUNIOR [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1213.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY JUNIOR (by TeamBlue)</link><thumbnail>http://i.imgur.com/CZvsFYH.png</thumbnail></item>
 
 
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] NICKELODEON [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1394.ts;streamtype=TSDOWNLOADER&amp;name=NICKELODEON (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1394.ts;streamtype=TSDOWNLOADER&amp;name=NICKELODEON (by TeamBlue)</link><thumbnail>http://i.imgur.com/8fMIHmp.png</thumbnail></item>
 
 
 
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] JIMJAM [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1423.ts;streamtype=TSDOWNLOADER&amp;name=JIMJAM (by TeamBlue)</link><thumbnail>http://i.imgur.com/b6Mhyk9.png</thumbnail></item>
 
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] SIC K [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1376.ts;streamtype=TSDOWNLOADER&amp;name=SIC K (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1376.ts;streamtype=TSDOWNLOADER&amp;name=SIC K (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_k.png</thumbnail></item>
 
 
 
@@ -587,43 +601,29 @@
 
 
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] SIC K [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1376.ts;streamtype=TSDOWNLOADER&amp;name=SIC K (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/ss/sic_pt_k.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] AMC [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1408.ts;streamtype=TSDOWNLOADER&amp;name=AMC (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1408.ts;streamtype=TSDOWNLOADER&amp;name=AMC (by TeamBlue)</link><thumbnail>http://i.imgur.com/fHe2vb2.png</thumbnail></item>
 
 
 
 
 
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] AXN [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1812.ts;streamtype=TSDOWNLOADER&amp;name=AXN (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1812.ts;streamtype=TSDOWNLOADER&amp;name=AXN (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/aa/axn_global.png</thumbnail></item>
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] SUPER RTL [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1028.ts;streamtype=TSDOWNLOADER&amp;name=SUPER RTL (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/tvchannel/de/Super-RTL-Deutschland.html</thumbnail></item>
-
-
-
-
-
-
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] AMC [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/2076.ts;streamtype=TSDOWNLOADER&amp;name=AMC (by TeamBlue)</link><thumbnail>http://i.imgur.com/fHe2vb2.png</thumbnail></item>
-
-
-
-
-
-
-
-
-
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] AXN [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://178.162.199.155:8088/live/axn1x/playlist.m3u8?id=84753&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702</link><thumbnail>http://www.lyngsat-logo.com/hires/aa/axn_global.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] AXN [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://178.162.199.137:8088/live/axn1x/playlist.m3u8?id=84753&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702</link><thumbnail>http://www.lyngsat-logo.com/hires/aa/axn_global.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] AXN [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title><sportsdevil>http://www.estadiofutebol.com/gratis/axn</sportsdevil><referer>http://ucaster.eu/</referer><thumbnail>http://www.lyngsat-logo.com/hires/aa/axn_global.png</thumbnail></item>
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] AXN BLACK [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1156.ts;streamtype=TSDOWNLOADER&amp;name=AXN BLACK (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/aa/axn_black_pt.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] AXN BLACK [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1156.ts;streamtype=TSDOWNLOADER&amp;name=AXN BLACK (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1156.ts;streamtype=TSDOWNLOADER&amp;name=AXN BLACK (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1156.ts;streamtype=TSDOWNLOADER&amp;name=AXN BLACK (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/aa/axn_black_pt.png</thumbnail></item>
 
 
 
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] AXN BLACK [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title><sportsdevil>http://www.europeu2016.net/index.php?canal=axnblack</sportsdevil><referer>http://ucaster.eu/</referer><thumbnail>http://www.lyngsat-logo.com/hires/aa/axn_black_pt.png</thumbnail></item>
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] AXN WHITE [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1155.ts;streamtype=TSDOWNLOADER&amp;name=AXN WHITE (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/aa/axn_white_pt.png</thumbnail></item>
-
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] AXN WHITE [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=AXN WHITE (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/aa/axn_white_pt.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] AXN WHITE [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://178.162.199.138:8088/live/axnwhitex/playlist.m3u8?id=84774&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702</link><thumbnail>http://www.lyngsat-logo.com/hires/aa/axn_white_pt.png</thumbnail></item>
 
@@ -643,101 +643,101 @@
 
 
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] FOX [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1149.ts;streamtype=TSDOWNLOADER&amp;name=FOX (by TeamBlue)</link><thumbnail>http://i.imgur.com/X4XkCez.png</thumbnail></item>
-
-
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] FOX [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://46.28.53.142:8088/live/foxcrl/playlist.m3u8?id=24274&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702</link><thumbnail>http://i.imgur.com/X4XkCez.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] FOX [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1149.ts;streamtype=TSDOWNLOADER&amp;name=FOX (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1149.ts;streamtype=TSDOWNLOADER&amp;name=FOX (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1149.ts;streamtype=TSDOWNLOADER&amp;name=FOX (by TeamBlue)</link><thumbnail>http://i.imgur.com/X4XkCez.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] FOX [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://46.28.53.120:8088/live/foxcrl/playlist.m3u8?id=24274&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702</link><thumbnail>http://i.imgur.com/X4XkCez.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] FOX [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title><sportsdevil>http://www.estadiofutebol.com/gratis/fox</sportsdevil><referer>http://escast.tv/</referer><thumbnail>http://i.imgur.com/X4XkCez.png</thumbnail></item>
 
 
 
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] FOX COMEDY [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=FOX COMEDY (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_comedy_pt.png</thumbnail></item>
 
 
 
 
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] FOX CRIME [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1151.ts;streamtype=TSDOWNLOADER&amp;name=FOX CRIME (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1151.ts;streamtype=TSDOWNLOADER&amp;name=FOX CRIME (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_crime_global.png</thumbnail></item>
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] FOX CRIME [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1151.ts;streamtype=TSDOWNLOADER&amp;name=FOX CRIME (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_crime_global.png</thumbnail></item>
-
-
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] FOX CRIME [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://146.185.16.62:8088/live/foxcrimex/playlist.m3u8?id=84766&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702</link><thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_crime_global.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] FOX CRIME [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://178.162.199.138:8088/live/foxcrimex/playlist.m3u8?id=84766&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702</link><thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_crime_global.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] FOX CRIME [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title><sportsdevil>http://www.estadiofutebol.com/gratis/foxcrime</sportsdevil><referer>http://ucaster.eu/</referer><thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_crime_global.png</thumbnail></item>
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] FOX LIFE [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1150.ts;streamtype=TSDOWNLOADER&amp;name=FOX LIFE (by TeamBlue)</link><thumbnail>http://www.thelogodb.com/images/media/logo/rttuur1433432546.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] FOX LIFE [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1150.ts;streamtype=TSDOWNLOADER&amp;name=FOX LIFE (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1150.ts;streamtype=TSDOWNLOADER&amp;name=FOX LIFE (by TeamBlue)</link><thumbnail>http://www.thelogodb.com/images/media/logo/rttuur1433432546.png</thumbnail></item>
 
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] FOX LIFE [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://46.165.251.98:8088/stream/foxlifea/playlist.m3u8?id=19709&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702</link><thumbnail>http://www.thelogodb.com/images/media/logo/rttuur1433432546.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] FOX LIFE [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title><sportsdevil>http://www.estadiofutebol.com/gratis/foxlife</sportsdevil><referer>http://liveflashplayer.com/</referer><thumbnail>http://www.thelogodb.com/images/media/logo/rttuur1433432546.png</thumbnail></item>
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] FOX MOVIES [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1148.ts;streamtype=TSDOWNLOADER&amp;name=FOX MOVIES (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_movies_pt.png</thumbnail></item>
-
-
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] FOX MOVIES [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://62.212.82.87:8088/live/sical/playlist.m3u8?id=24913&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702</link><thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_movies_pt.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] FOX MOVIES [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1148.ts;streamtype=TSDOWNLOADER&amp;name=FOX MOVIES (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1148.ts;streamtype=TSDOWNLOADER&amp;name=FOX MOVIES (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1148.ts;streamtype=TSDOWNLOADER&amp;name=FOX MOVIES (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_movies_pt.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] FOX MOVIES [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://46.28.53.120:8088/live/sical/playlist.m3u8?id=24913&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702</link><thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_movies_pt.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] FOX MOVIES [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title><sportsdevil>http://www.estadiofutebol.com/gratis/foxmovies</sportsdevil><referer>http://ezcast.tv/</referer><thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_movies_pt.png</thumbnail></item>
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] HOLLYWOOD [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1144.ts;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/cc/canal_hollywood_pt.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] HOLLYWOOD [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1144.ts;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1144.ts;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/cc/canal_hollywood_pt.png</thumbnail></item>
 
 
 
 
 
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] MOV [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1404.ts;streamtype=TSDOWNLOADER&amp;name=MOV (by TeamBlue)</link><thumbnail>http://www.thelogodb.com/images/media/logo/ywpyvx1435102521.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] MOV [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=MOV (by TeamBlue)</link><thumbnail>http://www.thelogodb.com/images/media/logo/ywpyvx1435102521.png</thumbnail></item>
 
 
 
 
 
-
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] TV CINE 1 [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1145.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 1 (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/tt/tvc1.png</thumbnail></item>
-
-
-
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] TV CINE 1 [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1145.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 1 (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1145.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 1 (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1145.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 1 (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/tt/tvc1.png</thumbnail></item>
 
 
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] TV CINE 2 [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1146.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 2 (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/tt/tvc2.png</thumbnail></item>
 
-
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] TV CINE 2 [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1146.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 2 (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1146.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 2 (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1146.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 2 (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/tt/tvc2.png</thumbnail></item>
 
 
 
 
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] TV CINE 3 [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/886.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 3 (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/886.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 3 (by TeamBlue)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/886.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 3 (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/tt/tvc3.png</thumbnail></item>
 
 
 
 
-
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] TV CINE 4 [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://freeiptv-tuga.zapto.org/live/free/iptv/73.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 4 (by TeamBlue)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://freeiptv-tuga.zapto.org/live/free/iptv/73.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 4 (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/tt/tvc4.png</thumbnail></item>
-
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] TV CINE 4 [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1147.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 4 (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1147.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 4 (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1147.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 4 (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/tt/tvc4.png</thumbnail></item>
 
 
 
 
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] TV SERIES [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1152.ts;streamtype=TSDOWNLOADER&amp;name=TV SERIES (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1152.ts;streamtype=TSDOWNLOADER&amp;name=TV SERIES (by TeamBlue)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1152.ts;streamtype=TSDOWNLOADER&amp;name=TV SERIES (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/tt/tv_series.png</thumbnail></item>
 
 
 
 
-
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] SYFY [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1412.ts;streamtype=TSDOWNLOADER&amp;name=SYFY (by TeamBlue)</link><thumbnail>http://www.thelogodb.com/images/media/logo/qxpsqp1433432599.png</thumbnail></item>
-
-
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] SYFY [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1412.ts;streamtype=TSDOWNLOADER&amp;name=SYFY (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1412.ts;streamtype=TSDOWNLOADER&amp;name=SYFY (by TeamBlue)</link><thumbnail>http://www.thelogodb.com/images/media/logo/qxpsqp1433432599.png</thumbnail></item>
 
 
 
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] DISCOVERY CHANNEL [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/2065.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY CHANNEL (by TeamBlue)</link><thumbnail>http://i.imgur.com/OznL5Kq.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] DISCOVERY CHANNEL [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1164.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY CHANNEL (by TeamBlue)</link><thumbnail>http://i.imgur.com/OznL5Kq.png</thumbnail></item>
 
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] DISCOVERY CHANNEL [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://146.185.16.62:8088/live/discoveryx/playlist.m3u8?id=84775&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702</link><thumbnail>http://i.imgur.com/OznL5Kq.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] DISCOVERY CHANNEL [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://178.162.199.137:8088/live/discoveryx/playlist.m3u8?id=84775&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702</link><thumbnail>http://i.imgur.com/OznL5Kq.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] DISCOVERY CHANNEL [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title><sportsdevil>http://www.sporttvsonline.com/index.php?canal=discovery</sportsdevil><referer>http://ucaster.eu/</referer><thumbnail>http://i.imgur.com/OznL5Kq.png</thumbnail></item>
 
@@ -748,31 +748,31 @@
 
 
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] HISTORIA [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1183.ts;streamtype=TSDOWNLOADER&amp;name=HISTORIA (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/hh/historia_pt.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] HISTORIA [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1183.ts;streamtype=TSDOWNLOADER&amp;name=HISTORIA (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1183.ts;streamtype=TSDOWNLOADER&amp;name=HISTORIA (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/hh/historia_pt.png</thumbnail></item>
 
-
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] HISTORIA [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://163.172.24.207/loadbalance/48857514988963326694/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDE2IDg6MjE6MDMgQU0maGFzaF92YWx1ZT1OeXAzdGV5S3hOc3pTbnh5Z2ZJRVpBPT0mdmFsaWRtaW51dGVzPTE=|User-Agent=iPad</link><thumbnail>http://www.lyngsat-logo.com/hires/hh/historia_pt.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] HISTORIA [B][COLOR red](RTMP)[/B][/COLOR]</title><link>rtmp://199.195.195.4/stream playpath=historiab?id=21918&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link><thumbnail>http://www.lyngsat-logo.com/hires/hh/historia_pt.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] HISTORIA [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://163.172.60.35/loadbalance/48857514988963326694/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDE2IDg6NTY6NDQgQU0maGFzaF92YWx1ZT1QNkQ3WjZxdlZHNHdaVjR3YUIwYTBRPT0mdmFsaWRtaW51dGVzPTE=|User-Agent=iPad</link><thumbnail>http://www.lyngsat-logo.com/hires/hh/historia_pt.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] HISTORIA [B][COLOR red](RTMP)[/B][/COLOR]</title><link>rtmp://206.190.129.28/stream playpath=historiab?id=21918&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link><thumbnail>http://www.lyngsat-logo.com/hires/hh/historia_pt.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] HISTORIA [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title><sportsdevil>http://www.sporttvsonline.com/index.php?canal=historia</sportsdevil><referer>http://liveflashplayer.com/</referer><thumbnail>http://www.lyngsat-logo.com/hires/hh/historia_pt.png</thumbnail></item>
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] NAT GEO CHANNEL [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/1972.ts;streamtype=TSDOWNLOADER&amp;name=NAT GEO CHANNEL (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/nn/nat_geo_us.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] NAT GEO CHANNEL [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1184.ts;streamtype=TSDOWNLOADER&amp;name=NAT GEO CHANNEL (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1184.ts;streamtype=TSDOWNLOADER&amp;name=NAT GEO CHANNEL (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/nn/nat_geo_us.png</thumbnail></item>
 
 
 
 
 
-
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] NAT GEO WILD [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1182.ts;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD (by TeamBlue)</link><thumbnail>http://i.imgur.com/sca81nc.png</thumbnail></item>
-
-
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] NAT GEO WILD [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1182.ts;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1182.ts;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD (by TeamBlue)</link><thumbnail>http://i.imgur.com/sca81nc.png</thumbnail></item>
 
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] NAT GEO WILD [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title><sportsdevil>http://www.wildsafarilive.com/</sportsdevil><referer>http://ucaster.eu/</referer><thumbnail>http://i.imgur.com/sca81nc.png</thumbnail></item>
-
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] ODISSEIA [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1401.ts;streamtype=TSDOWNLOADER&amp;name=ODISSEIA (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/oo/odisseia_pt.png</thumbnail></item>
 
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] ODISSEIA [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://46.28.49.156:8088/live/odisseiax/playlist.m3u8?id=84765&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702</link><thumbnail>http://www.lyngsat-logo.com/hires/oo/odisseia_pt.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] ODISSEIA [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1401.ts;streamtype=TSDOWNLOADER&amp;name=ODISSEIA (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1401.ts;streamtype=TSDOWNLOADER&amp;name=ODISSEIA (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/oo/odisseia_pt.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] ODISSEIA [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://5.63.149.236:8088/live/odisseiax/playlist.m3u8?id=84765&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702</link><thumbnail>http://www.lyngsat-logo.com/hires/oo/odisseia_pt.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] ODISSEIA [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title><sportsdevil>http://www.estadiofutebol.com/embed.php?c=odisseia</sportsdevil><referer>http://ucaster.eu/</referer><thumbnail>http://www.lyngsat-logo.com/hires/oo/odisseia_pt.png</thumbnail></item>
 
@@ -783,8 +783,8 @@
 
 
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] AFRO MUSIC [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1682.ts;streamtype=TSDOWNLOADER&amp;name=AFRO MUSIC (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/aa/afro_music_channel.png</thumbnail></item>
 
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] AFRO MUSIC [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=AFRO MUSIC (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/aa/afro_music_channel.png</thumbnail></item>
 
 
 
@@ -835,7 +835,7 @@
 
 
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] MTV DANCE [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://109.227.106.217:12345/udp/239.255.250.76:1234</link><thumbnail>http://i.imgur.com/RsNG82a.png</thumbnail></item>
+
 
 
 
@@ -846,14 +846,28 @@
 
 
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] MTV PORTUGAL [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1676.ts;streamtype=TSDOWNLOADER&amp;name=MTV PORTUGAL (by TeamBlue)</link><thumbnail>http://i.imgur.com/GyPW7Rw.png</thumbnail></item>
 
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] MTV PORTUGAL [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=MTV PORTUGAL (by TeamBlue)</link><thumbnail>http://i.imgur.com/GyPW7Rw.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] MTV PORTUGAL [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://146.185.16.62:8088/live/mtvax/playlist.m3u8?id=84773&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702</link><thumbnail>http://i.imgur.com/GyPW7Rw.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] MTV PORTUGAL [B][COLOR red](SPORTS DEVIL)[/B][/COLOR]</title><sportsdevil>http://www.estadiofutebol.com/gratis/mtv</sportsdevil><referer>http://ucaster.eu/</referer><thumbnail>http://i.imgur.com/GyPW7Rw.png</thumbnail></item>
 
 
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] TRACE URBAN [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=TRACE URBAN (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/tt/trace_fr_urban.png</thumbnail></item>
+
+
+
+
+
+
+
+
+
+
+
+
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] VEVO 1 [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/424.ts;streamtype=TSDOWNLOADER&amp;name=VEVO 1 (by TeamBlue)</link><thumbnail>http://i.imgur.com/gvrcgs1.png</thumbnail></item>
 
 
 
@@ -870,53 +884,39 @@
 
 
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] VEVO 1 [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8</link><thumbnail>http://i.imgur.com/gvrcgs1.png</thumbnail></item>
-
-
-
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] VEVO 2 [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1174.ts;streamtype=TSDOWNLOADER&amp;name=VEVO 2 (by TeamBlue)</link><thumbnail>http://i.imgur.com/gvrcgs1.png</thumbnail></item>
-
-
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] VEVO 2 [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8</link><thumbnail>http://i.imgur.com/gvrcgs1.png</thumbnail></item>
 
 
 
 
-
-
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] VEVO 3 [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8</link><thumbnail>http://i.imgur.com/gvrcgs1.png</thumbnail></item>
-
-
-
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] VH1 [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/499.ts;streamtype=TSDOWNLOADER&amp;name=VH1 (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/vv/vh1_global.png</thumbnail></item>
-
-
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] VH1 [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://109.227.106.217:12345/udp/239.255.250.88:1234</link><thumbnail>http://www.lyngsat-logo.com/hires/vv/vh1_global.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] VH1 [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/499.ts;streamtype=TSDOWNLOADER&amp;name=VH1 (by TeamBlue)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/499.ts;streamtype=TSDOWNLOADER&amp;name=VH1 (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/vv/vh1_global.png</thumbnail></item>
 
 
 
 
 
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] VH1 CLASSIC [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://109.227.106.217:12345/udp/239.255.250.89:1234</link><thumbnail>http://i.imgur.com/DzLrn28.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] VH1 CLASSIC [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=VH1 CLASSIC (by TeamBlue)</link><thumbnail>http://i.imgur.com/DzLrn28.png</thumbnail></item>
 
 
 
 
 
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] BAND [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://163.172.41.31/loadbalance/agua1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDE2IDg6MjM6NTEgQU0maGFzaF92YWx1ZT1kRUo2MjBORzVTYjdrMFlaTFpDZTd3PT0mdmFsaWRtaW51dGVzPTE=|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link><thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/band_nacional_br.png</thumbnail></item>
 
 
 
 
 
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] REDE TV [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8  </link><thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rede_tv_br.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] REDE TV [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=REDE TV (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rede_tv_br.png</thumbnail></item>
 
 
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] SBT [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1390.ts;streamtype=TSDOWNLOADER&amp;name=SBT (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sbt_br.png</thumbnail></item>
+
+
+
 
 
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] SBT [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://srv6.zoeweb.tv:1935/z343-live/stream/livestream.m3u8</link><thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sbt_br.png</thumbnail></item>
@@ -926,7 +926,7 @@
 
 
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] TPA INTERNACIONAL [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://api.new.livestream.com/accounts/1181452/events/5141181/broadcasts/135587019.m3u8?dw=100&hdnea=st=1474273386~exp=1474275186~acl=/i/1181452_5141181_lsix05p8t4pf5qilevp_1@305594/*~hmac=cdced0070c4b4b3c3a8e88c28acd2719604aa7dea0299948b45843de81beb490|headers|User-Agent=iPhone</link><thumbnail>http://i.imgur.com/ZqfQZuH.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] TPA INTERNACIONAL [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://api.new.livestream.com/accounts/1181452/events/5141181/broadcasts/136428127.m3u8?dw=100&hdnea=st=1474448334~exp=1474450134~acl=/i/1181452_5141181_lsie2w0wnbne6pj94it_1@305766/*~hmac=e5f56396da50dedb89a391de7b709e95ca4295280eabd56eb4469faaa9ab2250|headers|User-Agent=iPhone</link><thumbnail>http://i.imgur.com/ZqfQZuH.png</thumbnail></item>
 
 
 
@@ -940,13 +940,13 @@
 
 
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] TVE INTERNACIONAL [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8  </link><thumbnail>http://www.lyngsat-logo.com/logo/tv/gg/galicia_tv_eu.png</thumbnail></item>
 
 
 
 
 
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] TV GALICIA [B][COLOR red] (F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=TV GALICIA (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/logo/tv/gg/galicia_tv_eu.png</thumbnail></item>
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] TV GALICIA [B][COLOR red](HTTP)[/B][/COLOR]</title><link>http://media3.crtvg.es/live/tvge/chunklist.m3u8</link><thumbnail>http://www.lyngsat-logo.com/logo/tv/gg/galicia_tv_eu.png</thumbnail></item>
+
 
 
