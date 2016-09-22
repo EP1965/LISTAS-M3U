@@ -66,3 +66,16 @@
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] MOVISTAR F1 [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/1661.ts;streamtype=TSDOWNLOADER&amp;name=MOVISTAR F1 (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/mm/movistar_es_formula_1.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] MOVISTAR MOTOGP [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/1877.ts;streamtype=TSDOWNLOADER&amp;name=MOVISTAR MOTOGP (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/mm/movistar_es_moto_gp.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] TELEDEPORTE [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/1212/1212/8187.ts;streamtype=TSDOWNLOADER&amp;name=TELEDEPORTE (by TeamBlue)</link><thumbnail>http://i.imgur.com/unT3Jrz.png</thumbnail></item>
+
+
+
+
+
+
+
+
+<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] MOVISTAR MOTOGP [B][COLOR red](F4M)[/B][/COLOR]</title><link>http://cdn.sitenow.me/live/tvb117/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&Accept-Encoding=gzip,deflate&DNT=1&Referer=http://www.playerapp1.pw/&Connection=keep-alive&Icy-Metadata=0</link><thumbnail>http://i.imgur.com/unT3Jrz.png</thumbnail></item>
+
+
+
+
