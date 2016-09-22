@@ -1,4 +1,5 @@
-#EXTM3U
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-#EXTINF:-1, MOVISTAR MOTOGP
-http://cdn.sitenow.me/live/tvb117/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&Accept-Encoding=gzip,deflate&DNT=1&Referer=http://www.playerapp1.pw/&Connection=keep-alive&Icy-Metadata=0
+<item><title>[B][COLOR red]18.09 [B][COLOR deepskyblue]TONDELA•PORTO[B][COLOR red]LIGA NOS</title><link>http://ignore.me</link><thumbnail>http://i.imgur.com/Oyhrl9r.png?2</thumbnail>
+<name>1ªPARTE<link>https://cdn.video.playwire.com/19004/videos/5153356/video-sd.mp4</link></name>
+<name>2ªPARTE<link>https://cdn.video.playwire.com/19004/videos/5153357/video-sd.mp4</link></name>
