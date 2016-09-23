@@ -4,10 +4,8 @@
 
 <item>
 <title>UTOPIA</title>
-<link>
-<sublink>https://archive.org/download/utopia/Utopia_512kb.mp4</sublink>
-<sublink>https://archive.org/download/utopia/Utopia.MPG</sublink>
-<sublink>https://archive.org/download/utopia/Utopia.ogv</sublink>
-</link>
+<link#1>https://archive.org/download/utopia/Utopia_512kb.mp4</link#1>
+<link#2>https://archive.org/download/utopia/Utopia.MPG</link#2>
+<link#3>https://archive.org/download/utopia/Utopia.ogv</link#3>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMjEyMDIxNDc2NV5BMl5BanBnXkFtZTcwMTIzMzU1MQ@@._V1_.jpg</thumbnail>
 </item>
