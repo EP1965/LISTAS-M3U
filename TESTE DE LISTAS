@@ -1,16 +1,9 @@
 <item>
-<title>[B][COLOR red]23.09 12h10[B][COLOR white]•[B][COLOR green]MOTOGP[B][COLOR white]•[B][COLOR blue]MOTO3•FP2[B][COLOR white]•[B][COLOR green]GP ARAGAO[/B][/COLOR]</title>
-<subtitle>SPTV5</subtitle>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2475.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2475.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5</link>
-<thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail>
-
-<title>[B][COLOR red]23.09 12h10[B][COLOR white]•[B][COLOR green]MOTOGP[B][COLOR white]•[B][COLOR blue]MOTO3•FP2[B][COLOR white]•[B][COLOR green]GP ARAGAO[/B][/COLOR]</title>
+<title>UTOPIA</title>
 <link>
-<name>SPTV5</name>
-<sublink>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2475.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5</sublink>
-<name>SPTV5</name>
-<sublink>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2475.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5</sublink>
-<thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail>
+<sublink>https://archive.org/download/utopia/Utopia_512kb.mp4</sublink>
+<sublink>https://archive.org/download/utopia/Utopia.MPG</sublink>
+<sublink>https://archive.org/download/utopia/Utopia.ogv</sublink>
 </link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjEyMDIxNDc2NV5BMl5BanBnXkFtZTcwMTIzMzU1MQ@@._V1_.jpg</thumbnail>
 </item>
