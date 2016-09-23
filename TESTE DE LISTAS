@@ -43,23 +43,6 @@ http://213.13.26.11:1935/live/portocanal/magellan.m3u8
 http://163.172.211.217/loadbalance/14754455842767291813/chunks.m3u8?nimblesessionid=200168&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE2IDI6MDM6MjMgUE0maGFzaF92YWx1ZT1pLzBhd1VmTk5HbXFkYTUvZUd6bHBRPT0mdmFsaWRtaW51dGVzPTE=
 	 
 
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/benfica_tv.png",BTV
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png",SPORT TV 1
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png",SPORT TV 2
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png",SPORT TV 3
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png",SPORT TV 4
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png",SPORT TV 5
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/KTEBwY0.png",SPORTING TV
-
-
-
-
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/aa/axn_global.png",AXN
 http://146.185.16.62:8088/live/axn1x/playlist.m3u8?id=84753&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/aa/axn_white_pt.png",AXN WHITE
