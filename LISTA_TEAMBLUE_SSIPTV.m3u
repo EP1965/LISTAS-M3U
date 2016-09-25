@@ -39,8 +39,7 @@ http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
 http://213.13.26.11:1935/live/portocanal/magellan.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/dMiWcSV.png",CMTV
-http://163.172.211.215/loadbalance/14754455842767291813/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDE2IDM6MDU6MjEgUE0maGFzaF92YWx1ZT1NenlFZlUxZktmL3hOZkx5OFEwd3JRPT0mdmFsaWRtaW51dGVzPTE=|User-Agent=iPad  
-
+http://178.162.194.35/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/aa/axn_global.png",AXN
 http://163.172.211.217/loadbalance/14754455842767291813/chunks.m3u8?nimblesessionid=200168&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE2IDI6MDM6MjMgUE0maGFzaF92YWx1ZT1pLzBhd1VmTk5HbXFkYTUvZUd6bHBRPT0mdmFsaWRtaW51dGVzPTE=
