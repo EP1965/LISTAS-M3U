@@ -39,8 +39,7 @@ http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
 http://213.13.26.11:1935/live/portocanal/magellan.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/dMiWcSV.png",CM TV
-rtmp://178.162.211.103/stream<playpath>gareerga?id=27078&pk=95d5ae22bf48c475204ce55296ddf2d472bf5c22522cbcfaf59af6fadc87d285 <swfUrl>http://www.liveflashplayer.net/resources/scripts/fplayer.swf <pageUrl>http://www.liveflashplayer.net/embedplayer/gareerga/1/650/500
-
+http://163.172.40.71/loadbalance/14754455842767291813/chunks.m3u8?nimblesessionid=4788361&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDE2IDM6MzA6NDIgUE0maGFzaF92YWx1ZT1GbFNmc0FVMkR2UEw4OGpPaHVtSVpnPT0mdmFsaWRtaW51dGVzPTE=
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/aa/axn_global.png",AXN
 http://163.172.211.217/loadbalance/14754455842767291813/chunks.m3u8?nimblesessionid=200168&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE2IDI6MDM6MjMgUE0maGFzaF92YWx1ZT1pLzBhd1VmTk5HbXFkYTUvZUd6bHBRPT0mdmFsaWRtaW51dGVzPTE=
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/aa/axn_white_pt.png",AXN WHITE
