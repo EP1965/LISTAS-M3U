@@ -1,11 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<item><title>[B][COLOR red]23.09 12h10[B][COLOR white]•[B][COLOR green]MOTOGP[B][COLOR white]•[B][COLOR blue]MOTO3•FP2[B][COLOR white]•[B][COLOR green]GP ARAGAO[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]25.09 07h40[B][COLOR white]•[B][COLOR green]MOTOGP[B][COLOR white]•[B][COLOR blue]MOTO3•WUP[B][COLOR white]•[B][COLOR green]GP ARAGAO[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2475.ts$$lsname=TRT;streamtype=TSDOWNLOADER&amp;name=SPTV5</link>
+<link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/1605.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5</link>
+<link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/barryd/barryd/3507.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5</link>
+<link>http://163.172.170.33:8081/live/sporttv5-hq/l_116087_374800_46.ts?nimblesessionid=1162215&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE2IDE6MDU6MjQgUE0maGFzaF92YWx1ZT1CbWtWZllzS25uOVpOYm90U2dmbkt3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTE4OC4xMTQuMTExLjIzNiZzdHJtX2xlbj0xNg==$$lsname=TRT</link>
+
+
+<link>plugin://program.plexus/?url=acestream://29480b9e868fa66d5890ced8852b0c5e392ce7ee&amp;mode=1&amp;name=acestream+SPORTS"</link>
+<link>plugin://program.plexus/?url=acestream://f14d07c1f9ed66e915019e3331f580844da1c062&amp;mode=1&amp;name=acestream+SPORTS"</link>
+
+
+<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
+<item><title>[COLOR lawngreen]Link(s) Sports Devil[/COLOR]</title>
+
+
+<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
+<item><title>[B][COLOR red]25.09 08h10[B][COLOR white]•[B][COLOR green]MOTOGP[B][COLOR white]•[B][COLOR blue]MOTO2•WUP[B][COLOR white]•[B][COLOR green]GP ARAGAO[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
 <item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2475.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5</link>
 <link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/1605.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5</link>
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/barryd/barryd/3507.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5</link>
+<link>http://163.172.170.33:8081/live/sporttv5-hq/l_116087_374800_46.ts?nimblesessionid=1162215&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE2IDE6MDU6MjQgUE0maGFzaF92YWx1ZT1CbWtWZllzS25uOVpOYm90U2dmbkt3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTE4OC4xMTQuMTExLjIzNiZzdHJtX2xlbj0xNg==</link>
 
 
 
@@ -21,12 +38,12 @@
 
 
 <thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
-<item><title>[B][COLOR red]23.09 13h05[B][COLOR white]•[B][COLOR green]MOTOGP[B][COLOR white]•[B][COLOR blue]MOTOGP•FP2[B][COLOR white]•[B][COLOR green]GP ARAGAO[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]25.09 08h40[B][COLOR white]•[B][COLOR green]MOTOGP[B][COLOR white]•[B][COLOR blue]MOTOGP•WUP[B][COLOR white]•[B][COLOR green]GP ARAGAO[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
 <item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2475.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5</link>
 <link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/1605.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5</link>
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/barryd/barryd/3507.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5</link>
+<link>http://163.172.170.33:8081/live/sporttv5-hq/l_116087_374800_46.ts?nimblesessionid=1162215&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE2IDE6MDU6MjQgUE0maGFzaF92YWx1ZT1CbWtWZllzS25uOVpOYm90U2dmbkt3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTE4OC4xMTQuMTExLjIzNiZzdHJtX2xlbj0xNg==</link>
 
 
 
@@ -42,12 +59,12 @@
 
 
 <thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
-<item><title>[B][COLOR red]23.09 14h05[B][COLOR white]•[B][COLOR green]MOTOGP[B][COLOR white]•[B][COLOR blue]MOTO2•FP2[B][COLOR white]•[B][COLOR green]GP ARAGAO[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]25.09 10h00[B][COLOR white]•[B][COLOR green]MOTOGP[B][COLOR white]•[B][COLOR blue]MOTO3•RAC[B][COLOR white]•[B][COLOR green]GP ARAGAO[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
 <item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2475.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5</link>
 <link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/1605.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5</link>
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/barryd/barryd/3507.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5</link>
+<link>http://163.172.170.33:8081/live/sporttv5-hq/l_116087_374800_46.ts?nimblesessionid=1162215&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE2IDE6MDU6MjQgUE0maGFzaF92YWx1ZT1CbWtWZllzS25uOVpOYm90U2dmbkt3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTE4OC4xMTQuMTExLjIzNiZzdHJtX2xlbj0xNg==</link>
 
 
 
@@ -63,54 +80,33 @@
 
 
 <thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
-<item><title>[B][COLOR red]23.09 19h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]FC PORTO•BOAVISTA[B][COLOR white]•[B][COLOR green]L.NOS[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]25.09 11h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]FC PORTO•ANADIA FC[B][COLOR white]•[B][COLOR green]SUB 17[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
 <item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/858.ts;streamtype=TSDOWNLOADER&amp;name=SPTV1</link>
-<link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/1601.ts;streamtype=TSDOWNLOADER&amp;name=SPTV1</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/2325.ts;streamtype=TSDOWNLOADER&amp;name=SPTV1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2072.ts;streamtype=TSDOWNLOADER&amp;name=P CANAL</link>
 
-<link>rtmp://31.220.40.62/privatestream/ app=privatestream/ playpath=fawergge?keys=6FwFzBwoArVD7GnroNTCwg&keyt;=1471185155 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=fawergge</link>
-
+<link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/barryd/barryd/3516.ts;streamtype=TSDOWNLOADER&amp;name=P CANAL</link>
+<link>http://146.185.16.60:8088/live/portocanalv/playlist.m3u8?id=86583&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702</link>
 
 
 
 
-<link>plugin://program.plexus/?url=acestream://84e1429c31c0144c81d2190ab3970267fcc1444f&amp;mode=1&amp;name=acestream+SPORTS"</link>
-<link>plugin://program.plexus/?url=acestream://3f801504855bddd9f4f43f3fdf98d2afb0245464&amp;mode=1&amp;name=acestream+SPORTS"</link>
+
+
+
+
 
 
 <thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
 <item><title>[COLOR lawngreen]Link(s) Sports Devil[/COLOR]</title>
-<sportsdevil>http://cdn2.zuuk.org/sporttv.php?width=599&height=399</sportsdevil><referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
+<sportsdevil>http://www.desportonline.com/index.php?canal=portocanal</sportsdevil><referer>http://www.sportvdireto.online</referer>
 
 <thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
-<item><title>[B][COLOR red]23.09 19h30[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]DORTMUND•FRIBURGO[B][COLOR white]•[B][COLOR green]BUNDESLIGA[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2475.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5</link>
-<link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/1605.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5</link>
-
-
-
-
-
-
-
-
-<link>plugin://program.plexus/?url=acestream://acb90e3ad2c788e09a0ff42504e9034350e524c7&amp;mode=1&amp;name=acestream+SPORTS"</link>
-<link>plugin://program.plexus/?url=acestream://ef5e98eed2a1886bba70f94ca5035d94cb7f9652&amp;mode=1&amp;name=acestream+SPORTS"</link>
-
-
-<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
-<item><title>[COLOR lawngreen]Link(s) Sports Devil[/COLOR]</title>
-
-
-<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
-<item><title>[B][COLOR red]23.09 19h45[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]BETIS•MALAGA[B][COLOR white]•[B][COLOR green]LALIGA[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]25.09 11h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]LEGANES•VALENCIA[B][COLOR white]•[B][COLOR green]LALIGA[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
 <item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/857.ts;streamtype=TSDOWNLOADER&amp;name=SPTV2</link>
 <link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/789.ts;streamtype=TSDOWNLOADER&amp;name=SPTV2</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/2295.ts;streamtype=TSDOWNLOADER&amp;name=SPTV2</link>
-
+<link>http://www.liveonlinetv247.info/embed/sporttv2.php?width=650&height=480</link>
 <link>rtmp://31.220.0.201/privatestream/he56t5r6?keys=zrd8IHbjrxTjmvn9NTCF1A&keyt;=1471185438 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=he56t5r6&width;=630&height;=510</link>
 
 
@@ -126,54 +122,12 @@
 <sportsdevil>http://cdn2.zuuk.org/sporttv.php?width=599&height=399</sportsdevil><referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
 
 <thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
-<item><title>[B][COLOR red]23.09 19h45[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]TOULOUSE•PSG[B][COLOR white]•[B][COLOR green]LIGUE1[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]25.09 11h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]BELENENSES•SL BENFICA[B][COLOR white]•[B][COLOR green]JUNIORES C[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
 <item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/856.ts;streamtype=TSDOWNLOADER&amp;name=SPTV3</link>
-<link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/790.ts;streamtype=TSDOWNLOADER&amp;name=SPTV3</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/2296.ts;streamtype=TSDOWNLOADER&amp;name=SPTV3</link>
-
-
-
-
-
-
-
-<link>plugin://program.plexus/?url=acestream://416005a60f4f62ff5a0b5643f825d938698999d3&amp;mode=1&amp;name=acestream+SPORTS"</link>
-<link>plugin://program.plexus/?url=acestream://7d760849284c75f23cf5735d49fc3ecf732529e6&amp;mode=1&amp;name=acestream+SPORTS"</link>
-
-
-<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
-<item><title>[COLOR lawngreen]Link(s) Sports Devil[/COLOR]</title>
-
-
-<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
-<item><title>[B][COLOR red]23.09 21h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]SPORTING CP•ESTORIL[B][COLOR white]•[B][COLOR green]L.NOS[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/858.ts;streamtype=TSDOWNLOADER&amp;name=SPTV1</link>
-<link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/1601.ts;streamtype=TSDOWNLOADER&amp;name=SPTV1</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/2325.ts;streamtype=TSDOWNLOADER&amp;name=SPTV1</link>
-
-<link>rtmp://31.220.40.62/privatestream/ app=privatestream/ playpath=fawergge?keys=6FwFzBwoArVD7GnroNTCwg&keyt;=1471185155 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=fawergge</link>
-
-
-
-<link>http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)</link>
-<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtpinternacional?mag swfVfy=1 live=1 timeout=15</link>
-<link>plugin://program.plexus/?url=acestream://84e1429c31c0144c81d2190ab3970267fcc1444f&amp;mode=1&amp;name=acestream+SPORTS"</link>
-<link>plugin://program.plexus/?url=acestream://3f801504855bddd9f4f43f3fdf98d2afb0245464&amp;mode=1&amp;name=acestream+SPORTS"</link>
-
-
-<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
-<item><title>[COLOR lawngreen]Link(s) Sports Devil[/COLOR]</title>
-<sportsdevil>http://cdn2.zuuk.org/sporttv.php?width=599&height=399</sportsdevil><referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
-<sportsdevil>http://www.rtp.pt/play/direto/rtpinternacional</sportsdevil><referer>http://www.rtp.pt/play/</referer>
-<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
-<item><title>[B][COLOR red]23.09 21h00[B][COLOR white]•[B][COLOR green]FUTSAL[B][COLOR white]•[B][COLOR blue]SL BENFICA•BELENENSES[B][COLOR white]•[B][COLOR green]CAMP NAC[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
-
-<link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/1588.ts;streamtype=TSDOWNLOADER&amp;name=BTV</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/2301.ts;streamtype=TSDOWNLOADER&amp;name=BTV</link>
-
+<link>plugin://plugin.video.f4mTester/?url=http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/50.ts;streamtype=TSDOWNLOADER&amp;name=BTV</link>
+<link>plugin://plugin.video.f4mTester/?url=http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/215.ts;streamtype=TSDOWNLOADER&amp;name=BTV</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1670.ts;streamtype=TSDOWNLOADER&amp;name=BTV</link>
+<link>http://62.212.82.81:8088/live/benfieux/playlist.m3u8?id=251853&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702</link>
 <link>rtmp://31.220.40.62/privatestream/ app=privatestream/ playpath=gergtrg?keys=bgTVSHj_R7k44rqRvZCNUQ&keyt;=1471708579 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=gergtrg</link>
 
 
@@ -189,12 +143,33 @@
 <sportsdevil>http://www.desportonline.com/index.php?canal=benficatv</sportsdevil><referer>http://mytvfree.me/ver/benfica-tv-direto</referer>
 
 <thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
-<item><title>[B][COLOR red]24.09 08h00[B][COLOR white]•[B][COLOR green]MOTOGP[B][COLOR white]•[B][COLOR blue]MOTO3•FP3[B][COLOR white]•[B][COLOR green]GP ARAGAO[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]25.09 11h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]SL BENFICA•SPORTING CP[B][COLOR white]•[B][COLOR green]INICIADOS A[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/50.ts;streamtype=TSDOWNLOADER&amp;name=BTV</link>
+<link>plugin://plugin.video.f4mTester/?url=http://teuportal.dyndns.org:8000/live/M90yl5bvPc/GvV6WoyQqM/215.ts;streamtype=TSDOWNLOADER&amp;name=BTV</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1670.ts;streamtype=TSDOWNLOADER&amp;name=BTV</link>
+<link>http://62.212.82.81:8088/live/benfieux/playlist.m3u8?id=251853&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702</link>
+<link>rtmp://31.220.40.62/privatestream/ app=privatestream/ playpath=gergtrg?keys=bgTVSHj_R7k44rqRvZCNUQ&keyt;=1471708579 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=gergtrg</link>
+
+
+
+
+
+
+
+
+
+<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
+<item><title>[COLOR lawngreen]Link(s) Sports Devil[/COLOR]</title>
+<sportsdevil>http://www.desportonline.com/index.php?canal=benficatv</sportsdevil><referer>http://mytvfree.me/ver/benfica-tv-direto</referer>
+
+<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
+<item><title>[B][COLOR red]25.09 11h20[B][COLOR white]•[B][COLOR green]MOTOGP[B][COLOR white]•[B][COLOR blue]MOTO2•RAC[B][COLOR white]•[B][COLOR green]GP ARAGAO[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
 <item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2475.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5</link>
 <link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/1605.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5</link>
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/barryd/barryd/3507.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5</link>
+<link>http://163.172.170.33:8081/live/sporttv5-hq/l_116087_374800_46.ts?nimblesessionid=1162215&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE2IDE6MDU6MjQgUE0maGFzaF92YWx1ZT1CbWtWZllzS25uOVpOYm90U2dmbkt3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTE4OC4xMTQuMTExLjIzNiZzdHJtX2xlbj0xNg==</link>
 
 
 
@@ -210,306 +185,180 @@
 
 
 <thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
-<item><title>[B][COLOR red]24.09 08h55[B][COLOR white]•[B][COLOR green]MOTOGP[B][COLOR white]•[B][COLOR blue]MOTOGP•FP3[B][COLOR white]•[B][COLOR green]GP ARAGAO[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2475.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5</link>
-<link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/1605.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5</link>
-
-
-
-
-
-
-
-
-<link>plugin://program.plexus/?url=acestream://29480b9e868fa66d5890ced8852b0c5e392ce7ee&amp;mode=1&amp;name=acestream+SPORTS"</link>
-<link>plugin://program.plexus/?url=acestream://f14d07c1f9ed66e915019e3331f580844da1c062&amp;mode=1&amp;name=acestream+SPORTS"</link>
-
-
-<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
-<item><title>[COLOR lawngreen]Link(s) Sports Devil[/COLOR]</title>
-
-
-<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
-<item><title>[B][COLOR red]24.09 09h55[B][COLOR white]•[B][COLOR green]MOTOGP[B][COLOR white]•[B][COLOR blue]MOTO2•FP3[B][COLOR white]•[B][COLOR green]GP ARAGAO[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2475.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5</link>
-<link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/1605.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5</link>
-
-
-
-
-
-
-
-
-<link>plugin://program.plexus/?url=acestream://29480b9e868fa66d5890ced8852b0c5e392ce7ee&amp;mode=1&amp;name=acestream+SPORTS"</link>
-<link>plugin://program.plexus/?url=acestream://f14d07c1f9ed66e915019e3331f580844da1c062&amp;mode=1&amp;name=acestream+SPORTS"</link>
-
-
-<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
-<item><title>[COLOR lawngreen]Link(s) Sports Devil[/COLOR]</title>
-
-
-<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
-<item><title>[B][COLOR red]24.09 11h35[B][COLOR white]•[B][COLOR green]MOTOGP[B][COLOR white]•[B][COLOR blue]MOTO3•Q[B][COLOR white]•[B][COLOR green]GP ARAGAO[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2475.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5</link>
-<link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/1605.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5</link>
-
-
-
-
-
-
-
-
-<link>plugin://program.plexus/?url=acestream://29480b9e868fa66d5890ced8852b0c5e392ce7ee&amp;mode=1&amp;name=acestream+SPORTS"</link>
-<link>plugin://program.plexus/?url=acestream://f14d07c1f9ed66e915019e3331f580844da1c062&amp;mode=1&amp;name=acestream+SPORTS"</link>
-
-
-<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
-<item><title>[COLOR lawngreen]Link(s) Sports Devil[/COLOR]</title>
-
-
-<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
-<item><title>[B][COLOR red]24.09 12h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]EIBAR•REAL SOCIEDAD[B][COLOR white]•[B][COLOR green]LALIGA[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/857.ts;streamtype=TSDOWNLOADER&amp;name=SPTV2</link>
-<link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/789.ts;streamtype=TSDOWNLOADER&amp;name=SPTV2</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/2295.ts;streamtype=TSDOWNLOADER&amp;name=SPTV2</link>
-
-<link>rtmp://31.220.0.201/privatestream/he56t5r6?keys=zrd8IHbjrxTjmvn9NTCF1A&keyt;=1471185438 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=he56t5r6&width;=630&height;=510</link>
-
-
-
-
-
-<link>plugin://program.plexus/?url=acestream://fbd7f67699d7b2d07bae0d10da71ce72652a6245&amp;mode=1&amp;name=acestream+SPORTS"</link>
-<link>plugin://program.plexus/?url=acestream://8c648702197ea5b642462c381dcf7075b4764474&amp;mode=1&amp;name=acestream+SPORTS"</link>
-
-
-<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
-<item><title>[COLOR lawngreen]Link(s) Sports Devil[/COLOR]</title>
-<sportsdevil>http://cdn2.zuuk.org/sporttv.php?width=599&height=399</sportsdevil><referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
-
-<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
-<item><title>[B][COLOR red]24.09 12h30[B][COLOR white]•[B][COLOR green]MOTOGP[B][COLOR white]•[B][COLOR blue]MOTOGP•FP4[B][COLOR white]•[B][COLOR green]GP ARAGAO[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2475.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5</link>
-<link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/1605.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5</link>
-
-
-
-
-
-
-
-
-<link>plugin://program.plexus/?url=acestream://29480b9e868fa66d5890ced8852b0c5e392ce7ee&amp;mode=1&amp;name=acestream+SPORTS"</link>
-<link>plugin://program.plexus/?url=acestream://f14d07c1f9ed66e915019e3331f580844da1c062&amp;mode=1&amp;name=acestream+SPORTS"</link>
-
-
-<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
-<item><title>[COLOR lawngreen]Link(s) Sports Devil[/COLOR]</title>
-
-
-<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
-<item><title>[B][COLOR red]24.09 12h30[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]MAN UNITED•LEICESTER CITY[B][COLOR white]•[B][COLOR green]P LEAGUE[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/856.ts;streamtype=TSDOWNLOADER&amp;name=SPTV3</link>
-<link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/790.ts;streamtype=TSDOWNLOADER&amp;name=SPTV3</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/2296.ts;streamtype=TSDOWNLOADER&amp;name=SPTV3</link>
-
-
-
-
-
-
-
-<link>plugin://program.plexus/?url=acestream://acb90e3ad2c788e09a0ff42504e9034350e524c7&amp;mode=1&amp;name=acestream+SPORTS"</link>
-<link>plugin://program.plexus/?url=acestream://ef5e98eed2a1886bba70f94ca5035d94cb7f9652&amp;mode=1&amp;name=acestream+SPORTS"</link>
-
-
-<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
-<item><title>[COLOR lawngreen]Link(s) Sports Devil[/COLOR]</title>
-
-
-<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
-<item><title>[B][COLOR red]24.09 13h10[B][COLOR white]•[B][COLOR green]MOTOGP[B][COLOR white]•[B][COLOR blue]MOTOGP•QP1[B][COLOR white]•[B][COLOR green]GP ARAGAO[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2475.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5</link>
-<link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/1605.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5</link>
-
-
-
-
-
-
-
-
-<link>plugin://program.plexus/?url=acestream://29480b9e868fa66d5890ced8852b0c5e392ce7ee&amp;mode=1&amp;name=acestream+SPORTS"</link>
-<link>plugin://program.plexus/?url=acestream://f14d07c1f9ed66e915019e3331f580844da1c062&amp;mode=1&amp;name=acestream+SPORTS"</link>
-
-
-<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
-<item><title>[COLOR lawngreen]Link(s) Sports Devil[/COLOR]</title>
-
-
-<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
-<item><title>[B][COLOR red]24.09 13h35[B][COLOR white]•[B][COLOR green]MOTOGP[B][COLOR white]•[B][COLOR blue]MOTOGP•QP2[B][COLOR white]•[B][COLOR green]GP ARAGAO[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2475.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5</link>
-<link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/1605.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5</link>
-
-
-
-
-
-
-
-
-<link>plugin://program.plexus/?url=acestream://29480b9e868fa66d5890ced8852b0c5e392ce7ee&amp;mode=1&amp;name=acestream+SPORTS"</link>
-<link>plugin://program.plexus/?url=acestream://f14d07c1f9ed66e915019e3331f580844da1c062&amp;mode=1&amp;name=acestream+SPORTS"</link>
-
-
-<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
-<item><title>[COLOR lawngreen]Link(s) Sports Devil[/COLOR]</title>
-
-
-<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
-<item><title>[B][COLOR red]24.09 14h05[B][COLOR white]•[B][COLOR green]MOTOGP[B][COLOR white]•[B][COLOR blue]MOTO2•Q[B][COLOR white]•[B][COLOR green]GP ARAGAO[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/857.ts;streamtype=TSDOWNLOADER&amp;name=SPTV2</link>
-<link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/789.ts;streamtype=TSDOWNLOADER&amp;name=SPTV2</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/2295.ts;streamtype=TSDOWNLOADER&amp;name=SPTV2</link>
-
-<link>rtmp://31.220.0.201/privatestream/he56t5r6?keys=zrd8IHbjrxTjmvn9NTCF1A&keyt;=1471185438 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=he56t5r6&width;=630&height;=510</link>
-
-
-
-
-
-<link>plugin://program.plexus/?url=acestream://29480b9e868fa66d5890ced8852b0c5e392ce7ee&amp;mode=1&amp;name=acestream+SPORTS"</link>
-<link>plugin://program.plexus/?url=acestream://f14d07c1f9ed66e915019e3331f580844da1c062&amp;mode=1&amp;name=acestream+SPORTS"</link>
-
-
-<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
-<item><title>[COLOR lawngreen]Link(s) Sports Devil[/COLOR]</title>
-<sportsdevil>http://cdn2.zuuk.org/sporttv.php?width=599&height=399</sportsdevil><referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
-
-<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
-<item><title>[B][COLOR red]24.09 14h30[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]HAMBURGO•BAYERN[B][COLOR white]•[B][COLOR green]BUNDESLIGA[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2475.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5</link>
-<link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/1605.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5</link>
-
-
-
-
-
-
-
-
-<link>plugin://program.plexus/?url=acestream://84e1429c31c0144c81d2190ab3970267fcc1444f&amp;mode=1&amp;name=acestream+SPORTS"</link>
-<link>plugin://program.plexus/?url=acestream://3f801504855bddd9f4f43f3fdf98d2afb0245464&amp;mode=1&amp;name=acestream+SPORTS"</link>
-
-
-<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
-<item><title>[COLOR lawngreen]Link(s) Sports Devil[/COLOR]</title>
-
-
-<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
-<item><title>[B][COLOR red]24.09 15h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]FC PORTO•SC BRAGA[B][COLOR white]•[B][COLOR green]SUB 19[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2072.ts;streamtype=TSDOWNLOADER&amp;name=P CANAL</link>
-
-
-<link>http://213.13.26.11:1935/live/portocanal/magellan.m3u8</link>
-
-
-
-
-
-
-
-
-
-
-<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
-<item><title>[COLOR lawngreen]Link(s) Sports Devil[/COLOR]</title>
-<sportsdevil>http://www.desportonline.com/index.php?canal=portocanal</sportsdevil><referer>http://www.sportvdireto.online</referer>
-
-<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
-<item><title>[B][COLOR red]24.09 15h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]SWANSEA•MAN CITY[B][COLOR white]•[B][COLOR green]P LEAGUE[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/856.ts;streamtype=TSDOWNLOADER&amp;name=SPTV3</link>
-<link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/790.ts;streamtype=TSDOWNLOADER&amp;name=SPTV3</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/2296.ts;streamtype=TSDOWNLOADER&amp;name=SPTV3</link>
-
-
-
-
-
-
-
-<link>plugin://program.plexus/?url=acestream://acb90e3ad2c788e09a0ff42504e9034350e524c7&amp;mode=1&amp;name=acestream+SPORTS"</link>
-<link>plugin://program.plexus/?url=acestream://ef5e98eed2a1886bba70f94ca5035d94cb7f9652&amp;mode=1&amp;name=acestream+SPORTS"</link>
-
-
-<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
-<item><title>[COLOR lawngreen]Link(s) Sports Devil[/COLOR]</title>
-
-
-<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
-<item><title>[B][COLOR red]24.09 15h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]LIVERPOOL•HULL CITY[B][COLOR white]•[B][COLOR green]P LEAGUE[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
-
-
-
-
-
-
-
-
-
-
-<link>plugin://program.plexus/?url=acestream://416005a60f4f62ff5a0b5643f825d938698999d3&amp;mode=1&amp;name=acestream+SPORTS"</link>
-<link>plugin://program.plexus/?url=acestream://7d760849284c75f23cf5735d49fc3ecf732529e6&amp;mode=1&amp;name=acestream+SPORTS"</link>
-
-
-<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
-<item><title>[COLOR lawngreen]Link(s) Sports Devil[/COLOR]</title>
-
-
-<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
-<item><title>[B][COLOR red]24.09 15h15[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]SP GIJON•BARCELONA[B][COLOR white]•[B][COLOR green]LALIGA[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/857.ts;streamtype=TSDOWNLOADER&amp;name=SPTV2</link>
-<link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/789.ts;streamtype=TSDOWNLOADER&amp;name=SPTV2</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/2295.ts;streamtype=TSDOWNLOADER&amp;name=SPTV2</link>
-
-<link>rtmp://31.220.0.201/privatestream/he56t5r6?keys=zrd8IHbjrxTjmvn9NTCF1A&keyt;=1471185438 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=he56t5r6&width;=630&height;=510</link>
-
-
-
-
-
-<link>plugin://program.plexus/?url=acestream://fbd7f67699d7b2d07bae0d10da71ce72652a6245&amp;mode=1&amp;name=acestream+SPORTS"</link>
-<link>plugin://program.plexus/?url=acestream://8c648702197ea5b642462c381dcf7075b4764474&amp;mode=1&amp;name=acestream+SPORTS"</link>
-
-
-<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
-<item><title>[COLOR lawngreen]Link(s) Sports Devil[/COLOR]</title>
-<sportsdevil>http://cdn2.zuuk.org/sporttv.php?width=599&height=399</sportsdevil><referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
-
-<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
-<item><title>[B][COLOR red]24.09 16h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]FEIRENSE•NACIONAL[B][COLOR white]•[B][COLOR green]L.NOS[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]25.09 11h30[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]TORINO•AS ROMA[B][COLOR white]•[B][COLOR green]SERIE A[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
 <item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/858.ts;streamtype=TSDOWNLOADER&amp;name=SPTV1</link>
 <link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/1601.ts;streamtype=TSDOWNLOADER&amp;name=SPTV1</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/2325.ts;streamtype=TSDOWNLOADER&amp;name=SPTV1</link>
+<link>http://163.172.170.33:8081/live/sporttv1-hq/l_103923_21579000_2674.ts?nimblesessionid=1160952&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE2IDEyOjU4OjU4IFBNJmhhc2hfdmFsdWU9TjJsbTJnb3FhU25uNlN0Nk15VW8zUT09JnZhbGlkbWludXRlcz02MCZpZD0xODguMTE0LjExMS4yMzYmc3RybV9sZW49MTY=</link>
+<link>rtmp://31.220.40.62/privatestream/ app=privatestream/ playpath=fawergge?keys=6FwFzBwoArVD7GnroNTCwg&keyt;=1471185155 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=fawergge</link>
 
+
+
+
+
+<link>plugin://program.plexus/?url=acestream://60a9a4704a53844d12663233eea250096b140c46&amp;mode=1&amp;name=acestream+SPORTS"</link>
+<link>plugin://program.plexus/?url=acestream://651541771fe482f16d6676e875d40007269b1fa6&amp;mode=1&amp;name=acestream+SPORTS"</link>
+
+
+<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
+<item><title>[COLOR lawngreen]Link(s) Sports Devil[/COLOR]</title>
+<sportsdevil>http://cdn2.zuuk.org/sporttv.php?width=599&height=399</sportsdevil><referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
+
+<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
+<item><title>[B][COLOR red]25.09 13h00[B][COLOR white]•[B][COLOR green]MOTOGP[B][COLOR white]•[B][COLOR blue]MOTOGP•RAC[B][COLOR white]•[B][COLOR green]GP ARAGAO[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2475.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5</link>
+<link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/1605.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5</link>
+<link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/barryd/barryd/3507.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5</link>
+<link>http://163.172.170.33:8081/live/sporttv5-hq/l_116087_374800_46.ts?nimblesessionid=1162215&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE2IDE6MDU6MjQgUE0maGFzaF92YWx1ZT1CbWtWZllzS25uOVpOYm90U2dmbkt3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTE4OC4xMTQuMTExLjIzNiZzdHJtX2xlbj0xNg==</link>
+
+
+
+
+
+
+<link>plugin://program.plexus/?url=acestream://29480b9e868fa66d5890ced8852b0c5e392ce7ee&amp;mode=1&amp;name=acestream+SPORTS"</link>
+<link>plugin://program.plexus/?url=acestream://f14d07c1f9ed66e915019e3331f580844da1c062&amp;mode=1&amp;name=acestream+SPORTS"</link>
+
+
+<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
+<item><title>[COLOR lawngreen]Link(s) Sports Devil[/COLOR]</title>
+
+
+<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
+<item><title>[B][COLOR red]25.09 14h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]ST ETIENNE•LILLE[B][COLOR white]•[B][COLOR green]LIGUE1[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/856.ts;streamtype=TSDOWNLOADER&amp;name=SPTV3</link>
+<link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/790.ts;streamtype=TSDOWNLOADER&amp;name=SPTV3</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/2296.ts;streamtype=TSDOWNLOADER&amp;name=SPTV3</link>
+<link>http://163.172.150.10:8081/live/sporttv3-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE2IDE6MDY6MTQgUE0maGFzaF92YWx1ZT1idlNWZytjcmdnQnQ4dHYvWVZNRW1nPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE4OC4xMTQuMTExLjIzNiZzdHJtX2xlbj0xNg==</link>
+
+
+
+
+
+
+
+
+
+
+<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
+<item><title>[COLOR lawngreen]Link(s) Sports Devil[/COLOR]</title>
+
+
+<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
+<item><title>[B][COLOR red]25.09 14h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]INTER•BOLONHA[B][COLOR white]•[B][COLOR green]SERIE A[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/858.ts;streamtype=TSDOWNLOADER&amp;name=SPTV1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/1601.ts;streamtype=TSDOWNLOADER&amp;name=SPTV1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/2325.ts;streamtype=TSDOWNLOADER&amp;name=SPTV1</link>
+<link>http://163.172.170.33:8081/live/sporttv1-hq/l_103923_21579000_2674.ts?nimblesessionid=1160952&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE2IDEyOjU4OjU4IFBNJmhhc2hfdmFsdWU9TjJsbTJnb3FhU25uNlN0Nk15VW8zUT09JnZhbGlkbWludXRlcz02MCZpZD0xODguMTE0LjExMS4yMzYmc3RybV9sZW49MTY=</link>
+<link>rtmp://31.220.40.62/privatestream/ app=privatestream/ playpath=fawergge?keys=6FwFzBwoArVD7GnroNTCwg&keyt;=1471185155 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=fawergge</link>
+
+
+
+
+
+<link>plugin://program.plexus/?url=acestream://29480b9e868fa66d5890ced8852b0c5e392ce7ee&amp;mode=1&amp;name=acestream+SPORTS"</link>
+<link>plugin://program.plexus/?url=acestream://f14d07c1f9ed66e915019e3331f580844da1c062&amp;mode=1&amp;name=acestream+SPORTS"</link>
+
+
+<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
+<item><title>[COLOR lawngreen]Link(s) Sports Devil[/COLOR]</title>
+<sportsdevil>http://cdn2.zuuk.org/sporttv.php?width=599&height=399</sportsdevil><referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
+
+<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
+<item><title>[B][COLOR red]25.09 14h30[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]HOFFENHEIN•SCHALKE[B][COLOR white]•[B][COLOR green]BUNDESLIGA[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2475.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5</link>
+<link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/1605.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5</link>
+<link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/barryd/barryd/3507.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5</link>
+<link>http://163.172.170.33:8081/live/sporttv5-hq/l_116087_374800_46.ts?nimblesessionid=1162215&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE2IDE6MDU6MjQgUE0maGFzaF92YWx1ZT1CbWtWZllzS25uOVpOYm90U2dmbkt3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTE4OC4xMTQuMTExLjIzNiZzdHJtX2xlbj0xNg==</link>
+
+
+
+
+
+
+<link>plugin://program.plexus/?url=acestream://60a9a4704a53844d12663233eea250096b140c46&amp;mode=1&amp;name=acestream+SPORTS"</link>
+<link>plugin://program.plexus/?url=acestream://651541771fe482f16d6676e875d40007269b1fa6&amp;mode=1&amp;name=acestream+SPORTS"</link>
+
+
+<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
+<item><title>[COLOR lawngreen]Link(s) Sports Devil[/COLOR]</title>
+
+
+<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
+<item><title>[B][COLOR red]25.09 15h15[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]AT MADRID•DEP CORUNHA[B][COLOR white]•[B][COLOR green]LALIGA[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/857.ts;streamtype=TSDOWNLOADER&amp;name=SPTV2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/789.ts;streamtype=TSDOWNLOADER&amp;name=SPTV2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/2295.ts;streamtype=TSDOWNLOADER&amp;name=SPTV2</link>
+<link>http://www.liveonlinetv247.info/embed/sporttv2.php?width=650&height=480</link>
+<link>rtmp://31.220.0.201/privatestream/he56t5r6?keys=zrd8IHbjrxTjmvn9NTCF1A&keyt;=1471185438 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=he56t5r6&width;=630&height;=510</link>
+
+
+
+
+
+<link>plugin://program.plexus/?url=acestream://fbd7f67699d7b2d07bae0d10da71ce72652a6245&amp;mode=1&amp;name=acestream+SPORTS"</link>
+<link>plugin://program.plexus/?url=acestream://8c648702197ea5b642462c381dcf7075b4764474&amp;mode=1&amp;name=acestream+SPORTS"</link>
+
+
+<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
+<item><title>[COLOR lawngreen]Link(s) Sports Devil[/COLOR]</title>
+<sportsdevil>http://cdn2.zuuk.org/sporttv.php?width=599&height=399</sportsdevil><referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
+
+<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
+<item><title>[B][COLOR red]25.09 16h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]NANCY•NICE[B][COLOR white]•[B][COLOR green]LIGUE1[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
+
+
+
+
+
+
+
+
+
+
+<link>plugin://program.plexus/?url=acestream://29480b9e868fa66d5890ced8852b0c5e392ce7ee&amp;mode=1&amp;name=acestream+SPORTS"</link>
+<link>plugin://program.plexus/?url=acestream://f14d07c1f9ed66e915019e3331f580844da1c062&amp;mode=1&amp;name=acestream+SPORTS"</link>
+
+
+<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
+<item><title>[COLOR lawngreen]Link(s) Sports Devil[/COLOR]</title>
+
+
+<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
+<item><title>[B][COLOR red]25.09 16h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]WEST HAM•SOUTHAMPTON[B][COLOR white]•[B][COLOR green]P LEAGUE[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/856.ts;streamtype=TSDOWNLOADER&amp;name=SPTV3</link>
+<link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/790.ts;streamtype=TSDOWNLOADER&amp;name=SPTV3</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/2296.ts;streamtype=TSDOWNLOADER&amp;name=SPTV3</link>
+<link>http://163.172.150.10:8081/live/sporttv3-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE2IDE6MDY6MTQgUE0maGFzaF92YWx1ZT1idlNWZytjcmdnQnQ4dHYvWVZNRW1nPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE4OC4xMTQuMTExLjIzNiZzdHJtX2xlbj0xNg==</link>
+
+
+
+
+
+
+<link>plugin://program.plexus/?url=acestream://acb90e3ad2c788e09a0ff42504e9034350e524c7&amp;mode=1&amp;name=acestream+SPORTS"</link>
+<link>plugin://program.plexus/?url=acestream://ef5e98eed2a1886bba70f94ca5035d94cb7f9652&amp;mode=1&amp;name=acestream+SPORTS"</link>
+
+
+<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
+<item><title>[COLOR lawngreen]Link(s) Sports Devil[/COLOR]</title>
+
+
+<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
+<item><title>[B][COLOR red]25.09 16h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]MARITIMO•TONDELA[B][COLOR white]•[B][COLOR green]L NOS[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/858.ts;streamtype=TSDOWNLOADER&amp;name=SPTV1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/1601.ts;streamtype=TSDOWNLOADER&amp;name=SPTV1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/2325.ts;streamtype=TSDOWNLOADER&amp;name=SPTV1</link>
+<link>http://163.172.170.33:8081/live/sporttv1-hq/l_103923_21579000_2674.ts?nimblesessionid=1160952&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE2IDEyOjU4OjU4IFBNJmhhc2hfdmFsdWU9TjJsbTJnb3FhU25uNlN0Nk15VW8zUT09JnZhbGlkbWludXRlcz02MCZpZD0xODguMTE0LjExMS4yMzYmc3RybV9sZW49MTY=</link>
 <link>rtmp://31.220.40.62/privatestream/ app=privatestream/ playpath=fawergge?keys=6FwFzBwoArVD7GnroNTCwg&keyt;=1471185155 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=fawergge</link>
 
 
@@ -525,13 +374,55 @@
 <sportsdevil>http://cdn2.zuuk.org/sporttv.php?width=599&height=399</sportsdevil><referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
 
 <thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
-<item><title>[B][COLOR red]24.09 17h00[B][COLOR white]•[B][COLOR green]ANDEBOL[B][COLOR white]•[B][COLOR blue]FC PORTO•AGUAS SANTAS[B][COLOR white]•[B][COLOR green]CAMP NAC[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]25.09 16h30[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]COLONIA•LEIPZIG[B][COLOR white]•[B][COLOR green]BUNDESLIGA[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
 <item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2072.ts;streamtype=TSDOWNLOADER&amp;name=P CANAL</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2475.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5</link>
+<link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/1605.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5</link>
+<link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/barryd/barryd/3507.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5</link>
+<link>http://163.172.170.33:8081/live/sporttv5-hq/l_116087_374800_46.ts?nimblesessionid=1162215&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE2IDE6MDU6MjQgUE0maGFzaF92YWx1ZT1CbWtWZllzS25uOVpOYm90U2dmbkt3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTE4OC4xMTQuMTExLjIzNiZzdHJtX2xlbj0xNg==</link>
 
 
-<link>http://213.13.26.11:1935/live/portocanal/magellan.m3u8</link>
 
+
+
+
+<link>plugin://program.plexus/?url=acestream://60a9a4704a53844d12663233eea250096b140c46&amp;mode=1&amp;name=acestream+SPORTS"</link>
+<link>plugin://program.plexus/?url=acestream://651541771fe482f16d6676e875d40007269b1fa6&amp;mode=1&amp;name=acestream+SPORTS"</link>
+
+
+<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
+<item><title>[COLOR lawngreen]Link(s) Sports Devil[/COLOR]</title>
+
+
+<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
+<item><title>[B][COLOR red]25.09 17h30[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]VILLARREAL•OSASSUNA[B][COLOR white]•[B][COLOR green]LALIGA[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/857.ts;streamtype=TSDOWNLOADER&amp;name=SPTV2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/789.ts;streamtype=TSDOWNLOADER&amp;name=SPTV2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/2295.ts;streamtype=TSDOWNLOADER&amp;name=SPTV2</link>
+<link>http://www.liveonlinetv247.info/embed/sporttv2.php?width=650&height=480</link>
+<link>rtmp://31.220.0.201/privatestream/he56t5r6?keys=zrd8IHbjrxTjmvn9NTCF1A&keyt;=1471185438 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=he56t5r6&width;=630&height;=510</link>
+
+
+
+
+
+<link>plugin://program.plexus/?url=acestream://fbd7f67699d7b2d07bae0d10da71ce72652a6245&amp;mode=1&amp;name=acestream+SPORTS"</link>
+<link>plugin://program.plexus/?url=acestream://8c648702197ea5b642462c381dcf7075b4764474&amp;mode=1&amp;name=acestream+SPORTS"</link>
+
+
+<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
+<item><title>[COLOR lawngreen]Link(s) Sports Devil[/COLOR]</title>
+<sportsdevil>http://cdn2.zuuk.org/sporttv.php?width=599&height=399</sportsdevil><referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
+
+<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
+<item><title>[B][COLOR red]25.09 18h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]P. FERREIRA•RIO AVE[B][COLOR white]•[B][COLOR green]L.NOS[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/858.ts;streamtype=TSDOWNLOADER&amp;name=SPTV1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/1601.ts;streamtype=TSDOWNLOADER&amp;name=SPTV1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/2325.ts;streamtype=TSDOWNLOADER&amp;name=SPTV1</link>
+<link>http://163.172.170.33:8081/live/sporttv1-hq/l_103923_21579000_2674.ts?nimblesessionid=1160952&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE2IDEyOjU4OjU4IFBNJmhhc2hfdmFsdWU9TjJsbTJnb3FhU25uNlN0Nk15VW8zUT09JnZhbGlkbWludXRlcz02MCZpZD0xODguMTE0LjExMS4yMzYmc3RybV9sZW49MTY=</link>
+<link>rtmp://31.220.40.62/privatestream/ app=privatestream/ playpath=fawergge?keys=6FwFzBwoArVD7GnroNTCwg&keyt;=1471185155 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=fawergge</link>
 
 
 
@@ -543,13 +434,13 @@
 
 <thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
 <item><title>[COLOR lawngreen]Link(s) Sports Devil[/COLOR]</title>
-<sportsdevil>http://www.desportonline.com/index.php?canal=portocanal</sportsdevil><referer>http://www.sportvdireto.online</referer>
+<sportsdevil>http://cdn2.zuuk.org/sporttv.php?width=599&height=399</sportsdevil><referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
 
 <thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
-<item><title>[B][COLOR red]24.09 17h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]PALERMO•JUVENTUS[B][COLOR white]•[B][COLOR green]SERIE A[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]25.09 18h00[B][COLOR white]•[B][COLOR green]NFL[B][COLOR white]•[B][COLOR blue]CINCINNATY BENGALS•DENVER BRONCOS[B][COLOR white]•[B][COLOR green][/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
 <item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2475.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5</link>
-<link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/1605.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5</link>
+
+
 
 
 
@@ -560,6 +451,27 @@
 
 <link>plugin://program.plexus/?url=acestream://29480b9e868fa66d5890ced8852b0c5e392ce7ee&amp;mode=1&amp;name=acestream+SPORTS"</link>
 <link>plugin://program.plexus/?url=acestream://f14d07c1f9ed66e915019e3331f580844da1c062&amp;mode=1&amp;name=acestream+SPORTS"</link>
+<link>plugin://program.plexus/?url=acestream://217121b9d46047d437b3202312b9d068a52dba6a&amp;mode=1&amp;name=acestream+SPORTS"</link>
+
+<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
+<item><title>[COLOR lawngreen]Link(s) Sports Devil[/COLOR]</title>
+
+
+<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
+<item><title>[B][COLOR red]25.09 18h00[B][COLOR white]•[B][COLOR green]NFL[B][COLOR white]•[B][COLOR blue]NEW YORK GIANTS•WASHINGHTON REDSKINS[B][COLOR white]•[B][COLOR green][/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
+
+
+
+
+
+
+
+
+
+
+<link>plugin://program.plexus/?url=acestream://0153441a49e1ae7634fd47df1f21e6cc2c06d193&amp;mode=1&amp;name=acestream+SPORTS"</link>
+
 
 
 <thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
@@ -567,81 +479,220 @@
 
 
 <thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
-<item><title>[B][COLOR red]24.09 17h30[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]ARSENAL•CHELSEA[B][COLOR white]•[B][COLOR green]P LEAGUE[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]25.09 19h00[B][COLOR white]•[B][COLOR green]NASCAR[B][COLOR white]•[B][COLOR blue]BAD BOYS OFF ROAD 300 - NEW ENGLAND[B][COLOR white]•[B][COLOR green][/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2475.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5</link>
+<link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/1605.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5</link>
+<link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/barryd/barryd/3507.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5</link>
+<link>http://163.172.170.33:8081/live/sporttv5-hq/l_116087_374800_46.ts?nimblesessionid=1162215&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE2IDE6MDU6MjQgUE0maGFzaF92YWx1ZT1CbWtWZllzS25uOVpOYm90U2dmbkt3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTE4OC4xMTQuMTExLjIzNiZzdHJtX2xlbj0xNg==</link>
+
+
+
+
+
+
+
+
+
+
+<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
+<item><title>[COLOR lawngreen]Link(s) Sports Devil[/COLOR]</title>
+
+
+<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
+<item><title>[B][COLOR red]25.09 19h45[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]ESPANHOL•CELTA VIGO[B][COLOR white]•[B][COLOR green]LALIGA[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/857.ts;streamtype=TSDOWNLOADER&amp;name=SPTV2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/789.ts;streamtype=TSDOWNLOADER&amp;name=SPTV2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/2295.ts;streamtype=TSDOWNLOADER&amp;name=SPTV2</link>
+<link>http://www.liveonlinetv247.info/embed/sporttv2.php?width=650&height=480</link>
+<link>rtmp://31.220.0.201/privatestream/he56t5r6?keys=zrd8IHbjrxTjmvn9NTCF1A&keyt;=1471185438 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=he56t5r6&width;=630&height;=510</link>
+
+
+
+
+
+<link>plugin://program.plexus/?url=acestream://fbd7f67699d7b2d07bae0d10da71ce72652a6245&amp;mode=1&amp;name=acestream+SPORTS"</link>
+<link>plugin://program.plexus/?url=acestream://8c648702197ea5b642462c381dcf7075b4764474&amp;mode=1&amp;name=acestream+SPORTS"</link>
+
+
+<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
+<item><title>[COLOR lawngreen]Link(s) Sports Devil[/COLOR]</title>
+<sportsdevil>http://cdn2.zuuk.org/sporttv.php?width=599&height=399</sportsdevil><referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
+
+<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
+<item><title>[B][COLOR red]25.09 19h45[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]FIORENTINA•AC MILAN[B][COLOR white]•[B][COLOR green]SERIE A[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
 <item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/856.ts;streamtype=TSDOWNLOADER&amp;name=SPTV3</link>
 <link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/790.ts;streamtype=TSDOWNLOADER&amp;name=SPTV3</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/2296.ts;streamtype=TSDOWNLOADER&amp;name=SPTV3</link>
+<link>http://163.172.150.10:8081/live/sporttv3-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE2IDE6MDY6MTQgUE0maGFzaF92YWx1ZT1idlNWZytjcmdnQnQ4dHYvWVZNRW1nPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE4OC4xMTQuMTExLjIzNiZzdHJtX2xlbj0xNg==</link>
 
 
 
 
 
 
+<link>plugin://program.plexus/?url=acestream://84e1429c31c0144c81d2190ab3970267fcc1444f&amp;mode=1&amp;name=acestream+SPORTS"</link>
+<link>plugin://program.plexus/?url=acestream://3f801504855bddd9f4f43f3fdf98d2afb0245464&amp;mode=1&amp;name=acestream+SPORTS"</link>
 
-<link>plugin://program.plexus/?url=acestream://acb90e3ad2c788e09a0ff42504e9034350e524c7&amp;mode=1&amp;name=acestream+SPORTS"</link>
-<link>plugin://program.plexus/?url=acestream://ef5e98eed2a1886bba70f94ca5035d94cb7f9652&amp;mode=1&amp;name=acestream+SPORTS"</link>
-<link>plugin://program.plexus/?url=acestream://416005a60f4f62ff5a0b5643f825d938698999d3&amp;mode=1&amp;name=acestream+SPORTS"</link>
-<link>plugin://program.plexus/?url=acestream://7d760849284c75f23cf5735d49fc3ecf732529e6&amp;mode=1&amp;name=acestream+SPORTS"</link>
+
 <thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
 <item><title>[COLOR lawngreen]Link(s) Sports Devil[/COLOR]</title>
 
 
 <thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
-<item><title>[B][COLOR red]24.09 17h30[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]AT BILBAO•SEVILHA[B][COLOR white]•[B][COLOR green]LALIGA[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-
-<item><title>[B][COLOR red]24.09 18h15[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]DESP. CHAVES•SL BENFICA[B][COLOR white]•[B][COLOR green]L NOS[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[B][COLOR red]24.09 19h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]MONACO•ANGERS[B][COLOR white]•[B][COLOR green]LIGUE1[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[B][COLOR red]24.09 19h45[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]LAS PALMAS•REAL MADRID[B][COLOR white]•[B][COLOR green]LALIGA[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[B][COLOR red]24.09 19h45[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]NAPOLES•CHIEVO VERONA[B][COLOR white]•[B][COLOR green]SERIE A[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[B][COLOR red]24.09 20h30[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]BRAGA•SETUBAL[B][COLOR white]•[B][COLOR green]L NOS[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[B][COLOR red]24.09 21h30[B][COLOR white]•[B][COLOR green]FUTSAL[B][COLOR white]•[B][COLOR blue]QUARTOS FINAL[B][COLOR white]•[B][COLOR green]CAMP MUNDO[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[B][COLOR red]24.09 22h30[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]SPORT•SANTOS[B][COLOR white]•[B][COLOR green]BRASILEIRAO[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[B][COLOR red]24.09 15h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]SL BENFICA•SACAVENENSE[B][COLOR white]•[B][COLOR green]JUNIORES A[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[B][COLOR red]24.09 20h30[B][COLOR white]•[B][COLOR green]HOQUEI[B][COLOR white]•[B][COLOR blue]SL BENFICA•FC PORTO[B][COLOR white]•[B][COLOR green][/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[B][COLOR red]24.09 15h00[B][COLOR white]•[B][COLOR green]T MESA[B][COLOR white]•[B][COLOR blue]SPORTING CP•SL BENFICA[B][COLOR white]•[B][COLOR green][/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[B][COLOR red]25.09 00h00[B][COLOR white]•[B][COLOR green]FUTSAL[B][COLOR white]•[B][COLOR blue]QUARTOS FINAL[B][COLOR white]•[B][COLOR green]FUTSAL[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[B][COLOR red]25.09 01h00[B][COLOR white]•[B][COLOR green]NASCAR[B][COLOR white]•[B][COLOR blue]VISITMYRTBEACH.COM.300[B][COLOR white]•[B][COLOR green][/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[B][COLOR red]25.09 01h10[B][COLOR white]•[B][COLOR green]NASCAR[B][COLOR white]•[B][COLOR blue]AMERICAN ETHANOL E15 125[B][COLOR white]•[B][COLOR green][/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[B][COLOR red]25.09 03h00[B][COLOR white]•[B][COLOR green]UFC[B][COLOR white]•[B][COLOR blue]CYBORG•LANSBURG[B][COLOR white]•[B][COLOR green]FIGHT NIGHT[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[B][COLOR red]25.09 07h40[B][COLOR white]•[B][COLOR green]MOTOGP[B][COLOR white]•[B][COLOR blue]MOTO3•WUP[B][COLOR white]•[B][COLOR green]GP ARAGAO[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[B][COLOR red]25.09 08h10[B][COLOR white]•[B][COLOR green]MOTOGP[B][COLOR white]•[B][COLOR blue]MOTO2•WUP[B][COLOR white]•[B][COLOR green]GP ARAGAO[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[B][COLOR red]25.09 08h40[B][COLOR white]•[B][COLOR green]MOTOGP[B][COLOR white]•[B][COLOR blue]MOTOGP•WUP[B][COLOR white]•[B][COLOR green]GP ARAGAO[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[B][COLOR red]25.09 10h00[B][COLOR white]•[B][COLOR green]MOTOGP[B][COLOR white]•[B][COLOR blue]MOTO3•RAC[B][COLOR white]•[B][COLOR green]GP ARAGAO[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[B][COLOR red]25.09 11h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]FC PORTO•ANADIA FC[B][COLOR white]•[B][COLOR green]SUB 17[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[B][COLOR red]25.09 11h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]LEGANES•VALENCIA[B][COLOR white]•[B][COLOR green]LALIGA[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[B][COLOR red]25.09 11h20[B][COLOR white]•[B][COLOR green]MOTOGP[B][COLOR white]•[B][COLOR blue]MOTO2•RAC[B][COLOR white]•[B][COLOR green]GP ARAGAO[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[B][COLOR red]25.09 11h30[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]TORINO•AS ROMA[B][COLOR white]•[B][COLOR green]SERIE A[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[B][COLOR red]25.09 13h00[B][COLOR white]•[B][COLOR green]MOTOGP[B][COLOR white]•[B][COLOR blue]MOTOGP•RAC[B][COLOR white]•[B][COLOR green]GP ARAGAO[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[B][COLOR red]25.09 14h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]ST ETIENNE•LILLE[B][COLOR white]•[B][COLOR green]LIGUE1[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[B][COLOR red]25.09 14h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]INTER•BOLONHA[B][COLOR white]•[B][COLOR green]SERIE A[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[B][COLOR red]25.09 14h30[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]HOFFENHEIN•SCHALKE[B][COLOR white]•[B][COLOR green]BUNDESLIGA[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[B][COLOR red]25.09 15h15[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]AT MADRID•DEP CORUNHA[B][COLOR white]•[B][COLOR green]LALIGA[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[B][COLOR red]25.09 16h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]NANCY•NICE[B][COLOR white]•[B][COLOR green]LIGUE1[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[B][COLOR red]25.09 16h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]WEST HAM•SOUTHAMPTON[B][COLOR white]•[B][COLOR green]P LEAGUE[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[B][COLOR red]25.09 16h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]MARITIMO•TONDELA[B][COLOR white]•[B][COLOR green]L NOS[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[B][COLOR red]25.09 16h30[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]COLONIA•LEIPZIG[B][COLOR white]•[B][COLOR green]BUNDESLIGA[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[B][COLOR red]25.09 17h30[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]VILLARREAL•OSASSUNA[B][COLOR white]•[B][COLOR green]LALIGA[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[B][COLOR red]25.09 18h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]P. FERREIRA•RIO AVE[B][COLOR white]•[B][COLOR green]L.NOS[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[B][COLOR red]25.09 18h00[B][COLOR white]•[B][COLOR green]NFL[B][COLOR white]•[B][COLOR blue]CINCINNATY BENGALS•DENVER BRONCOS[B][COLOR white]•[B][COLOR green][/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[B][COLOR red]25.09 18h00[B][COLOR white]•[B][COLOR green]NFL[B][COLOR white]•[B][COLOR blue]NEW YORK GIANTS•WASHINGHTON REDSKINS[B][COLOR white]•[B][COLOR green][/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[B][COLOR red]25.09 19h00[B][COLOR white]•[B][COLOR green]NASCAR[B][COLOR white]•[B][COLOR blue]SPRINT CUP SERIES[B][COLOR white]•[B][COLOR green][/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[B][COLOR red]25.09 19h45[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]ESPANHOL•CELTA VIGO[B][COLOR white]•[B][COLOR green]LALIGA[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[B][COLOR red]25.09 19h45[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]FIORENTINA•AC MILAN[B][COLOR white]•[B][COLOR green]SERIE A[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
 <item><title>[B][COLOR red]25.09 20h15[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]MOREIRENSE•GUIMARAES[B][COLOR white]•[B][COLOR green]L.NOS[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/858.ts;streamtype=TSDOWNLOADER&amp;name=SPTV1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/1601.ts;streamtype=TSDOWNLOADER&amp;name=SPTV1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/2325.ts;streamtype=TSDOWNLOADER&amp;name=SPTV1</link>
+<link>http://163.172.170.33:8081/live/sporttv1-hq/l_103923_21579000_2674.ts?nimblesessionid=1160952&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE2IDEyOjU4OjU4IFBNJmhhc2hfdmFsdWU9TjJsbTJnb3FhU25uNlN0Nk15VW8zUT09JnZhbGlkbWludXRlcz02MCZpZD0xODguMTE0LjExMS4yMzYmc3RybV9sZW49MTY=</link>
+<link>rtmp://31.220.40.62/privatestream/ app=privatestream/ playpath=fawergge?keys=6FwFzBwoArVD7GnroNTCwg&keyt;=1471185155 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=fawergge</link>
+
+
+
+
+
+
+
+
+
+<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
+<item><title>[COLOR lawngreen]Link(s) Sports Devil[/COLOR]</title>
+<sportsdevil>http://cdn2.zuuk.org/sporttv.php?width=599&height=399</sportsdevil><referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
+
+<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
 <item><title>[B][COLOR red]25.09 21h25[B][COLOR white]•[B][COLOR green]NFL[B][COLOR white]•[B][COLOR blue]KANSAS CITY CHIEFS•NEW YORK JETS[B][COLOR white]•[B][COLOR green][/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[B][COLOR red]25.09 21h30[B][COLOR white]•[B][COLOR green]FUTSAL[B][COLOR white]•[B][COLOR blue]QUARTOS FINAL[B][COLOR white]•[B][COLOR green]CAMP MUNDO[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/856.ts;streamtype=TSDOWNLOADER&amp;name=SPTV3</link>
+<link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/790.ts;streamtype=TSDOWNLOADER&amp;name=SPTV3</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/2296.ts;streamtype=TSDOWNLOADER&amp;name=SPTV3</link>
+<link>http://163.172.150.10:8081/live/sporttv3-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE2IDE6MDY6MTQgUE0maGFzaF92YWx1ZT1idlNWZytjcmdnQnQ4dHYvWVZNRW1nPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE4OC4xMTQuMTExLjIzNiZzdHJtX2xlbj0xNg==</link>
+
+
+
+
+
+
+<link>plugin://program.plexus/?url=acestream://29480b9e868fa66d5890ced8852b0c5e392ce7ee&amp;mode=1&amp;name=acestream+SPORTS"</link>
+<link>plugin://program.plexus/?url=acestream://f14d07c1f9ed66e915019e3331f580844da1c062&amp;mode=1&amp;name=acestream+SPORTS"</link>
+<link>plugin://program.plexus/?url=acestream://217121b9d46047d437b3202312b9d068a52dba6a&amp;mode=1&amp;name=acestream+SPORTS"</link>
+
+<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
+<item><title>[COLOR lawngreen]Link(s) Sports Devil[/COLOR]</title>
+
+
+<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
+<item><title>[B][COLOR red]25.09 21h30[B][COLOR white]•[B][COLOR green]FUTSAL[B][COLOR white]•[B][COLOR blue]ARGENTINA•EGIPTO[B][COLOR white]•[B][COLOR green]CAMP MUNDO[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
+
+
+
+
+
+
+
+
+
+
+<link>plugin://program.plexus/?url=acestream://e597f01558bcc668a924da5c9821b063b4ca74fd&amp;mode=1&amp;name=acestream+SPORTS"</link>
+
+
+
+<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
+<item><title>[COLOR lawngreen]Link(s) Sports Devil[/COLOR]</title>
+
+
+<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
 <item><title>[B][COLOR red]25.09 22h30[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]AT MINEIRO•INTERNACIONAL[B][COLOR white]•[B][COLOR green]BRASILEIRAO[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[B][COLOR red]25.09 22h30[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]AT MINEIRO•INTERNACIONAL[B][COLOR white]•[B][COLOR green]BRASILEIRAO[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[B][COLOR red]25.09 11h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]FC PORTO•ANADIA FC[B][COLOR white]•[B][COLOR green]SUB 17[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[B][COLOR red]25.09 11h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]BELENENSES•SL BENFICA[B][COLOR white]•[B][COLOR green]JUNIORES C[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[B][COLOR red]25.09 11h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]SL BENFICA•SPORTING CP[B][COLOR white]•[B][COLOR green]INICIADOS A[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[B][COLOR red]26.09 00h00[B][COLOR white]•[B][COLOR green]FUTSAL[B][COLOR white]•[B][COLOR blue]QUARTOS FINAL[B][COLOR white]•[B][COLOR green]CAMP MUNDO[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/857.ts;streamtype=TSDOWNLOADER&amp;name=SPTV2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/789.ts;streamtype=TSDOWNLOADER&amp;name=SPTV2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/2295.ts;streamtype=TSDOWNLOADER&amp;name=SPTV2</link>
+<link>http://www.liveonlinetv247.info/embed/sporttv2.php?width=650&height=480</link>
+<link>rtmp://31.220.0.201/privatestream/he56t5r6?keys=zrd8IHbjrxTjmvn9NTCF1A&keyt;=1471185438 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=he56t5r6&width;=630&height;=510</link>
+
+
+
+
+
+
+
+
+
+<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
+<item><title>[COLOR lawngreen]Link(s) Sports Devil[/COLOR]</title>
+<sportsdevil>http://cdn2.zuuk.org/sporttv.php?width=599&height=399</sportsdevil><referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
+
+<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
+<item><title>[B][COLOR red]26.09 00h00[B][COLOR white]•[B][COLOR green]FUTSAL[B][COLOR white]•[B][COLOR blue]AZERBEIJAO•PORTUGAL[B][COLOR white]•[B][COLOR green]CAMP MUNDO[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1971.ts;streamtype=TSDOWNLOADER&amp;name=RTP1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/749.ts;streamtype=TSDOWNLOADER&amp;name=RTP1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/2321.ts;streamtype=TSDOWNLOADER&amp;name=RTP1</link>
+<link>http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)</link>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15  </link>
+
+
+
+
+
+<link>plugin://program.plexus/?url=acestream://e597f01558bcc668a924da5c9821b063b4ca74fd&amp;mode=1&amp;name=acestream+SPORTS"</link>
+
+
+
+<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
+<item><title>[COLOR lawngreen]Link(s) Sports Devil[/COLOR]</title>
+<sportsdevil>http://www.rtp.pt/play/direto/rtp1</sportsdevil><referer>http://www.rtp.pt/</referer>
+
+<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
 "<item><title>[B][COLOR red]26.09 01h30[B][COLOR white]•[B][COLOR green]NFL[B][COLOR white]•[B][COLOR blue]DALLAS COWBOYS•CHICAGO
 BEARS[B][COLOR white]•[B][COLOR green][/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>"
+<item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
+
+
+
+
+
+
+
+
+
+
+<link>plugin://program.plexus/?url=acestream://29480b9e868fa66d5890ced8852b0c5e392ce7ee&amp;mode=1&amp;name=acestream+SPORTS"</link>
+<link>plugin://program.plexus/?url=acestream://f14d07c1f9ed66e915019e3331f580844da1c062&amp;mode=1&amp;name=acestream+SPORTS"</link>
+<link>plugin://program.plexus/?url=acestream://0153441a49e1ae7634fd47df1f21e6cc2c06d193&amp;mode=1&amp;name=acestream+SPORTS"</link>
+
+<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
+<item><title>[COLOR lawngreen]Link(s) Sports Devil[/COLOR]</title>
+
+
+<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
 <item><title>[B][COLOR red]26.09 19h45[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]ALAVES•GRANADA[B][COLOR white]•[B][COLOR green]LALIGA[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[COLOR lawngreen]Link(s) F4m, Http e Plexus[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/857.ts;streamtype=TSDOWNLOADER&amp;name=SPTV2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/789.ts;streamtype=TSDOWNLOADER&amp;name=SPTV2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/2295.ts;streamtype=TSDOWNLOADER&amp;name=SPTV2</link>
+<link>http://www.liveonlinetv247.info/embed/sporttv2.php?width=650&height=480</link>
+<link>rtmp://31.220.0.201/privatestream/he56t5r6?keys=zrd8IHbjrxTjmvn9NTCF1A&keyt;=1471185438 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=he56t5r6&width;=630&height;=510</link>
+
+
+
+
+
+<link>plugin://program.plexus/?url=acestream://fbd7f67699d7b2d07bae0d10da71ce72652a6245&amp;mode=1&amp;name=acestream+SPORTS"</link>
+<link>plugin://program.plexus/?url=acestream://8c648702197ea5b642462c381dcf7075b4764474&amp;mode=1&amp;name=acestream+SPORTS"</link>
+
+
+<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
+<item><title>[COLOR lawngreen]Link(s) Sports Devil[/COLOR]</title>
+<sportsdevil>http://cdn2.zuuk.org/sporttv.php?width=599&height=399</sportsdevil><referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
+
+<thumbnail>http://i.imgur.com/hFqQZZB.png</thumbnail></item>
 <item><title>[B][COLOR red]26.09 20h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]BURNLEY•WATFORD[B][COLOR white]•[B][COLOR green]P LEAGUE[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
 <item><title>[B][COLOR red]26.09 20h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]BELENENSES•AROUCA[B][COLOR white]•[B][COLOR green]L NOS[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]26.09 20h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]CAGLIARI•SAMPDORIA[B][COLOR white]•[B][COLOR green]SERIE A[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
 <item><title>[B][COLOR red]27.09 01h30[B][COLOR white]•[B][COLOR green]NFL[B][COLOR white]•[B][COLOR blue]NEW ORLEANS SAINTS•ATLANTA FALCONS[B][COLOR white]•[B][COLOR green][/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
 <item><title>[B][COLOR red]27.09 12h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]CSKA•TOTTENHAM[B][COLOR white]•[B][COLOR green]UYL[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
 <item><title>[B][COLOR red]27.09 14h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]LEICESTER CITY•FC PORTO[B][COLOR white]•[B][COLOR green]UYL[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
@@ -657,16 +708,64 @@ BEARS[B][COLOR white]•[B][COLOR green][/B][/COLOR]</title><link>http://ignora.
 <item><title>[B][COLOR red]28.09 15h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]NAPOLE•SL BENFICA[B][COLOR white]•[B][COLOR green]UYL[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
 <item><title>[B][COLOR red]28.09 17h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]CELTIC•MAN CITY[B][COLOR white]•[B][COLOR green]UYL[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
 <item><title>[B][COLOR red]28.09 19h45[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]NAPOLES•SL BENFICA[B][COLOR white]•[B][COLOR green]UCL[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[B][COLOR red]28.09 19h45[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]B M'GLADBAC•BARCELONA[B][COLOR white]•[B][COLOR green]UCL[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]28.09 19h45[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]B M'GLADBACH•BARCELONA[B][COLOR white]•[B][COLOR green]UCL[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
 <item><title>[B][COLOR red]28.09 19h45[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]CELTIC•MAN CITY[B][COLOR white]•[B][COLOR green]UCL[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
 <item><title>[B][COLOR red]28.09 19h45[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]ARSENAL•BASILEIA[B][COLOR white]•[B][COLOR green]UCL[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
 <item><title>[B][COLOR red]28.09 19h45[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]AT MADRID•B MUNIQUE[B][COLOR white]•[B][COLOR green]UCL[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-[B][COLOR white]•[B][COLOR green][/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-[B][COLOR white]•[B][COLOR green][/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-[B][COLOR white]•[B][COLOR green][/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-[B][COLOR white]•[B][COLOR green][/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-[B][COLOR white]•[B][COLOR green][/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-[B][COLOR white]•[B][COLOR green][/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-[B][COLOR white]•[B][COLOR green][/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-[B][COLOR white]•[B][COLOR green][/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-[B][COLOR white]•[B][COLOR green][/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]29.09 16h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]FC ASTANA•YOUN BOYS[B][COLOR white]•[B][COLOR green]UEL[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]29.09 18h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]HAPOEL BEER SHEVA•SOUTHAMPTON[B][COLOR white]•[B][COLOR green]UEL[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]29.09 18h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]SPARTA PRAGA•INTER MILAO[B][COLOR white]•[B][COLOR green]UEL[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]29.09 18h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]FIORENTINA•QARABAG[B][COLOR white]•[B][COLOR green]UEL[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]29.09 18h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]AJAX•STANDARD LIEGE[B][COLOR white]•[B][COLOR green]UEL[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]29.09 18h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]SHAKTAR DONETSK•SC BRAGA[B][COLOR white]•[B][COLOR green]UEL[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]29.09 20h05[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]MAN UNITED•ZORYA LUHANSK[B][COLOR white]•[B][COLOR green]UEL[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]29.09 20h05[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]OLYMPIACOS•APOEL[B][COLOR white]•[B][COLOR green]UEL[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]29.09 20h05[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]ÃS ROMA•ASTRA[B][COLOR white]•[B][COLOR green]UEL[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]29.09 20h05[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]ZENIT•AZ ALKMAAR[B][COLOR white]•[B][COLOR green]UEL[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]30.09 01h25[B][COLOR white]•[B][COLOR green]NFL[B][COLOR white]•[B][COLOR blue]CINCINNATI BENGALS•MIAMI DOLPHINS[B][COLOR white]•[B][COLOR green][/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]30.09 19h45[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]REAL SOCIEDAD•BETIS[B][COLOR white]•[B][COLOR green]LALIGA[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]30.09 19h45[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]RENNES•GUINGAMP[B][COLOR white]•[B][COLOR green]LIGUE1[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]30.09 20h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]EVERTON•CRYSTAL PALACE[B][COLOR white]•[B][COLOR green]P LEAGUE[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]30.09 20h30[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]TONDELA•P. FERREIRA[B][COLOR white]•[B][COLOR green]L NOS[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]01.10 11h45[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]RIO AVE•ESTORIL[B][COLOR white]•[B][COLOR green]L NOS[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]01.10 12h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]GRANADA•LEGANÉS[B][COLOR white]•[B][COLOR green]LALIGA[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]01.10 12h30[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]SWANSEA CITY•LIVERPOOL[B][COLOR white]•[B][COLOR green]P LEAGUE[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]01.10 14h30[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]BAYERN•COLÓNIA[B][COLOR white]•[B][COLOR green]BUNDESLIGA[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]01.10 15h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]HULL CITY•CHELSEA[B][COLOR white]•[B][COLOR green]P LEAGUE[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]01.10 15h15[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]SEVILHA•ALAVÉS[B][COLOR white]•[B][COLOR green]LALIGA[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]01.10 16h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]DESP. CHAVES•BELENENSES[B][COLOR white]•[B][COLOR green]L NOS[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]01.10 17h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]B. LEVERKUSEN•B. DORTMUND[B][COLOR white]•[B][COLOR green]BUNDESLIGA[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]01.10 17h00[B][COLOR white]•[B][COLOR green]HOQUEI[B][COLOR white]•[B][COLOR blue]SL BENFICA•VALONGO[B][COLOR white]•[B][COLOR green]CAMP NAC[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]01.10 17h30[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]OSASUNA•LAS PALMAS[B][COLOR white]•[B][COLOR green]LALIGA[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]01.10 18h00[B][COLOR white]•[B][COLOR green]HOQUEI[B][COLOR white]•[B][COLOR blue]FC PORTO•OC BARCELOS[B][COLOR white]•[B][COLOR green]CAMP NAC[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]01.10 18h15[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]V. GUIMARÃES•SPORTING CP[B][COLOR white]•[B][COLOR green]L NOS[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]01.10 19h00[B][COLOR white]•[B][COLOR green]ANDEBOL[B][COLOR white]•[B][COLOR blue]SL BENFICA•SP C HORTA[B][COLOR white]•[B][COLOR green]CAMP NAC[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]01.10 19h45[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]DEP. CORUNHA•SP. GIJÓN[B][COLOR white]•[B][COLOR green]LALIGA[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]01.10 19h45[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]UDINESE•LAZIO[B][COLOR white]•[B][COLOR green]SERIE A[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]01.10 19hh00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]METZ•MÓNACO[B][COLOR white]•[B][COLOR green]LIGUE1[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]01.10 20h30[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]NACIONAL•FC PORTO[B][COLOR white]•[B][COLOR green]L NOS[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]01.10 22h30[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]CRUZEIRO•GRÊMIO[B][COLOR white]•[B][COLOR green]BRASILEIRAO[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]02.10 01h30[B][COLOR white]•[B][COLOR green]NASCAR[B][COLOR white]•[B][COLOR blue]RHINO LININGS 350[B][COLOR white]•[B][COLOR green]NASCAR CAMPING WORLD TRUCK SERIES[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]02.10 11h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]VALÊNCIA•ATL. MADRID[B][COLOR white]•[B][COLOR green]LALIGA[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]02.10 11h00[B][COLOR white]•[B][COLOR green]WRC[B][COLOR white]•[B][COLOR blue]RALI DA CÓRSEGA - SE10 - PORTO-VECHIO - PALOMBAGGIA - POWER STAGE[B][COLOR white]•[B][COLOR green][/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]02.10 11h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]SL BENFICA•SANTA CLARA[B][COLOR white]•[B][COLOR green]L LEDMAN[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]02.10 11h15[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]FAMALICÃO•PORTIMONENSE[B][COLOR white]•[B][COLOR green]L LEDMAN[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]02.10 11h30[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]EMPOLI•JUVENTUS[B][COLOR white]•[B][COLOR green]SERIE A[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]02.10 12h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]MAN. UNITED• STOKE CITY[B][COLOR white]•[B][COLOR green]P LEAGUE[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]02.10 14h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]ANGERS•MARSELHA[B][COLOR white]•[B][COLOR green]LIGUE1[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]02.10 14h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]ATALANTA•NÁPOLES[B][COLOR white]•[B][COLOR green]SERIE A[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]02.10 14h15[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]TOTTENHAM•MAN. CITY[B][COLOR white]•[B][COLOR green]P LEAGUE[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]02.10 14h30[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]ZENIT•SPARTAK[B][COLOR white]•[B][COLOR green]LIGA RUSSA[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]02.10 15h15[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]REAL MADRID•EIBAR[B][COLOR white]•[B][COLOR green]LALIGA[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]02.10 16h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]V. SETÚBAL•MARÍTIMO[B][COLOR white]•[B][COLOR green]L NOS[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]02.10 16h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]SL BENFICA•FEIRENSE[B][COLOR white]•[B][COLOR green]L NOS[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]02.10 16h30[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]BURNLEY•ARSENAL[B][COLOR white]•[B][COLOR green]P LEAGUE[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]02.10 17h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]AC MILAN•SASSUOLO[B][COLOR white]•[B][COLOR green]SERIE A[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]02.10 17h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]FC PORTO•CF UNIAO MADEIRA[B][COLOR white]•[B][COLOR green]L LEDMAN[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]02.10 18h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]BOAVISTA•MOREIRENSE[B][COLOR white]•[B][COLOR green]L NOS[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]02.10 19h45[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]CELTA•BARCELONA[B][COLOR white]•[B][COLOR green]LALIGA[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]02.10 19h45[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]AS ROMA•INTER[B][COLOR white]•[B][COLOR green]SERIE A[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]02.10 19hoo[B][COLOR white]•[B][COLOR green]NASCAR[B][COLOR white]•[B][COLOR blue]AAA400[B][COLOR white]•[B][COLOR green]NASCAR SPRINT CUP SERIES[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]02.10 20h15[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]AROUCA•SC BRAGA[B][COLOR white]•[B][COLOR green]L NOS[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]05.10 17h00[B][COLOR white]•[B][COLOR green]ANDEBOL[B][COLOR white]•[B][COLOR blue]SL BENFICA•AA AVANCA[B][COLOR white]•[B][COLOR green]CAMP NAC[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item><title>[B][COLOR red]08.10 17h00[B][COLOR white]•[B][COLOR green]ANDEBOL[B][COLOR white]•[B][COLOR blue]SL BENFICA•HANDBALL KAERJENG[B][COLOR white]•[B][COLOR green]EHF[/B][/COLOR]</title><link>http://ignora.me</link><thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
