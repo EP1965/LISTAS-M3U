@@ -5,7 +5,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2475.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5$$lsname=TRT</link>
 <link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/1605.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5$$lsname=TRT</link>
 <link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/barryd/barryd/3507.ts;streamtype=TSDOWNLOADER&amp;name=SPTV5$$lsname=TRT</link>
-<link>http://163.172.170.33:8081/live/sporttv5-hq/l_116087_374800_46.ts?nimblesessionid=1162215&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE2IDE6MDU6MjQgUE0maGFzaF92YWx1ZT1CbWtWZllzS25uOVpOYm90U2dmbkt3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTE4OC4xMTQuMTExLjIzNiZzdHJtX2xlbj0xNg==$$lsname=TRT</link>
+<link>http://163.172.170.33:8081/live/sporttv5-hq/l_116087_374800_46.ts$$lsname=TRT?nimblesessionid=1162215&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE2IDE6MDU6MjQgUE0maGFzaF92YWx1ZT1CbWtWZllzS25uOVpOYm90U2dmbkt3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTE4OC4xMTQuMTExLjIzNiZzdHJtX2xlbj0xNg==$$lsname=TRT</link>
 
 
 <link>plugin://program.plexus/?url=acestream://29480b9e868fa66d5890ced8852b0c5e392ce7ee&amp;mode=1&amp;name=acestream+SPORTS$$lsname=TRT</link>
