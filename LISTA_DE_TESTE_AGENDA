@@ -1,22 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
-<item><title>[B][COLOR red]26.09 19h45[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]ALAVES•GRANADA[B][COLOR white]•[B][COLOR green]LALIGA[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/857.ts;streamtype=TSDOWNLOADER&amp;name=SPTV2</link>
-<link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/789.ts;streamtype=TSDOWNLOADER&amp;name=SPTV2</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/2295.ts;streamtype=TSDOWNLOADER&amp;name=SPTV2</link>
-<link>http://www.liveonlinetv247.info/embed/sporttv2.php?width=650&height=480</link>
-<link>rtmp://31.220.0.201/privatestream/he56t5r6?keys=zrd8IHbjrxTjmvn9NTCF1A&keyt;=1471185438 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=he56t5r6&width;=630&height;=510</link>
-<link>plugin://program.plexus/?url=acestream://fbd7f67699d7b2d07bae0d10da71ce72652a6245&amp;mode=1&amp;name=acestream+SPORTS"</link>
-<link>plugin://program.plexus/?url=acestream://8c648702197ea5b642462c381dcf7075b4764474&amp;mode=1&amp;name=acestream+SPORTS"</link>
-<thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[COLOR lawngreen]Link(s) Sports Devil[/COLOR]</title>
-<sportsdevil>http://cdn2.zuuk.org/sporttv.php?width=599&height=399</sportsdevil><referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
-<thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-
-
-<item><title>[B][COLOR red]26.09 19h45[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]ALAVES•GRANADA[B][COLOR white]•[B][COLOR green]LALIGA[/B][/COLOR]</title>
-<link></link>
-<thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
-<item><title>[COLOR lawngreen]Link(s) Sports Devil[/COLOR]</title>
-<sportsdevil>http://cdn2.zuuk.org/sporttv.php?width=599&height=399</sportsdevil><referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
-<thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail></item>
+<item>
+<title>[B][COLOR red]27.09 12h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]CSKA•TOTTENHAM[B][COLOR white]•[B][COLOR green]UYL[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1157.ts;streamtype=TSDOWNLOADER&amp;name=SPTV1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1721.ts;streamtype=TSDOWNLOADER&amp;name=SPTV1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/2325.ts;streamtype=TSDOWNLOADER&amp;name=SPTV1</link>
+<link>http://163.172.170.33:8081/live/sporttv1-hq/l_103923_21579000_2674.ts?nimblesessionid=1160952&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE2IDEyOjU4OjU4IFBNJmhhc2hfdmFsdWU9TjJsbTJnb3FhU25uNlN0Nk15VW8zUT09JnZhbGlkbWludXRlcz02MCZpZD0xODguMTE0LjExMS4yMzYmc3RybV9sZ</link>
+<link>rtmp://31.220.40.62/privatestream/ app=privatestream/ playpath=fawergge?keys=6FwFzBwoArVD7GnroNTCwg&keyt;=1471185155 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/</link>
+<thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail>
+</item>
