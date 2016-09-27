@@ -3,19 +3,16 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/1971.ts;streamtype=TSDOWNLOADER&amp;name=RTP 1 (by TeamBlue)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/749.ts;streamtype=TSDOWNLOADER&amp;name=RTP 1 (by TeamBlue)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/2321.ts;streamtype=TSDOWNLOADER&amp;name=RTP 1 (by TeamBlue)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb);streamtype=TSDOWNLOADER&amp;name=RTP 1 (by TeamBlue)</link>
-<link>plugin://plugin.video.f4mTester/?url=rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15  ;streamtype=TSDOWNLOADER&amp;name=RTP 1 (by TeamBlue)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://www.rtp.pt/play/direto/rtp1;streamtype=TSDOWNLOADER&amp;name=RTP 1 (by TeamBlue)</link>
+<link>http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)</link>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15  </link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.rtp.pt/play/direto/rtp1</link>
 <thumbnail>http://i.imgur.com/nwF46j7.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white] SPORT TV 1 [B][COLOR red] (F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/858.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://grandiptv.myftp.org:8000/live/5grandiptv855/87978000/1601.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/2325.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.170.33:8081/live/sporttv1-hq/l_103923_21579000_2674.ts?nimblesessionid=1160952&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE2IDEyOjU4OjU4IFBNJmhhc2hfdmFsdWU9TjJsbTJnb3FhU25uNlN0Nk15VW8zUT09JnZhbGlkbWludXRlcz02MCZpZD0xODguMTE0LjExMS4yMzYmc3RybV9sZW49MTY=;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)</link>
-<link>plugin://plugin.video.f4mTester/?url=rtmp://31.220.40.62/privatestream/ app=privatestream/ playpath=fawergge?keys=6FwFzBwoArVD7GnroNTCwg&keyt;=1471185155 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=fawergge;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://31.220.40.62/privatestream//fawergge?keys/playlist.m3u8;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)</link>
+<link>http://163.172.170.33:8081/live/sporttv1-hq/l_103923_21579000_2674.ts?nimblesessionid=1160952&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE2IDEyOjU4OjU4IFBNJmhhc2hfdmFsdWU9TjJsbTJnb3FhU25uNlN0Nk15VW8zUT09JnZhbGlkbWludXRlcz02MCZpZD0xODguMTE0LjExMS4yMzYmc3RybV9sZW49MTY=</link>
+<link>rtmp://31.220.40.62/privatestream/ app=privatestream/ playpath=fawergge?keys=6FwFzBwoArVD7GnroNTCwg&keyt;=1471185155 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=fawergge</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://31.220.40.62/privatestream//fawergge?keys/playlist.m3u8</link>
 <thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail></item>
-
-
-
