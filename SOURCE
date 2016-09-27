@@ -1,5 +1,5 @@
 <item>
 <title>enc test</title>
 <link>ignore</link>
-<externallink>$$LSProEncKey=thisismytest$$</externallink>
+<externallink>https://raw.githubusercontent.com/EP1965/LISTAS-M3U/master/SOURCE_ENCRYPT$$LSProEncKey=thisismytest$$</externallink>
 </item>
