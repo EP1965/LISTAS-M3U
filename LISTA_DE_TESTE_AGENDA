@@ -5,7 +5,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/2325.ts;streamtype=TSDOWNLOADER&amp;name=SPTV1</link>
 <link>http://163.172.170.33:8081/live/sporttv1-hq/l_103923_21579000_2674.ts?nimblesessionid=1160952&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE2IDEyOjU4OjU4IFBNJmhhc2hfdmFsdWU9TjJsbTJnb3FhU25uNlN0Nk15VW8zUT09JnZhbGlkbWludXRlcz02MCZpZD0xODguMTE0LjExMS4yMzYmc3RybV9sZ</link>
 <link>rtmp://31.220.40.62/privatestream/ app=privatestream/ playpath=fawergge?keys=6FwFzBwoArVD7GnroNTCwg&keyt;=1471185155 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://usachannels.tv/nbc_live.php</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://cdn2.zuuk.org/sporttv.php?width=599&height=399</link>
 <thumbnail>http://i.imgur.com/U2Jtp9U.png</thumbnail>
 </item>
 
