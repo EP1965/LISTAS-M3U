@@ -6,7 +6,7 @@ http://46.28.53.142:8088/live/tvicrl/playlist.m3u8?id=24273&wowzasessionid=34848
 
 
 #EXTINF:-1,SPORT TV 1rtmp
-rtmp://31.220.0.13/privatestream/  app=privatestream/ playpath=fawergge?keys=V8tSJhXvgfyUMcFVwFZuMg&keyt;=1475001472 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=fawergge&width=599&height=399
+rtmp://31.220.0.13/privatestream/  app=privatestream/ playpath=fawergge?keys=V8tSJhXvgfyUMcFVwFZuMg&keyt;=1475001472 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=fawergge
 
 
 #EXTINF:-1,SPORT TV 1rtmp
