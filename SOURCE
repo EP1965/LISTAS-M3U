@@ -1,5 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+<channel>
+<name>[B][COLOR deepskyblue]ADD-ON TEAMBLUE[/B][/COLOR]</name>
+<thumbnail>http://i.imgur.com/7oS0bpU.png</thumbnail>
+</subitem>
+</item>
+
 <item>
-<title>enc test</title>
-<link>ignore</link>
+<title>[B][COLOR deepskyblue]ADD-ON TEAMBLUE[/B][/COLOR]</title>"
+<link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/EP1965/LISTAS-M3U/master/SOURCE_ENCRYPT$$LSProEncKey=thisismytest$$</externallink>
+<thumbnail>http://i.imgur.com/7oS0bpU.png</thumbnail>
+<fanart>http://i.imgur.com/i3WS0fo.jpg</fanart>
+<info>Agenda com os Eventos Desportivos que passam no TeamBlue Live Events</info>
 </item>
