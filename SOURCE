@@ -15,3 +15,140 @@
 <fanart>http://i.imgur.com/i3WS0fo.jpg</fanart>
 <info>Agenda com os Eventos Desportivos que passam no TeamBlue Live Events</info>
 </item>
+
+<channels>
+<channel>
+"<name>[B][COLOR deepskyblue]AGENDA DESPORTIVA
+TEAMBLUE[/B][/COLOR]</name>"
+<thumbnail>http://i.imgur.com/7oS0bpU.png</thumbnail>
+</subitem>
+</item>
+
+<item>
+"<title>[B][COLOR deepskyblue]AGENDA DESPORTIVA
+TEAMBLUE[/B][/COLOR]</title>"
+<link>http://ignorame</link>
+<externallink>http://bit.ly/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0VQMTk2NS9BZGRvbi9tYXN0ZXIvQUdFTkRBX0RFU1BPUlRJVkE</externallink>
+<thumbnail>http://i.imgur.com/7oS0bpU.png</thumbnail>
+<fanart>http://i.imgur.com/i3WS0fo.jpg</fanart>
+<info>Agenda com os Eventos Desportivos que passam no TeamBlue Live Events</info>
+</item>
+
+
+<channels>
+<channel>
+<name>[B][COLOR deepskyblue]DESPORTO[/B][/COLOR]</name>
+<thumbnail>http://i.imgur.com/cQbS64Q.png</thumbnail>
+</subitem>
+</item>
+
+<item>
+<title>[B][COLOR deepskyblue]DESPORTO[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://bit.ly/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0VQMTk2NS9BZGRvbi9tYXN0ZXIvTUVOVVNfREVTUA</externallink>
+<thumbnail>http://i.imgur.com/cQbS64Q.png</thumbnail>
+<fanart>http://i.imgur.com/HIUUB6L.jpg</fanart>
+<info>Seccao Desporto</info>
+</item>
+
+
+<channels>
+<channel>
+<name>[B][COLOR deepskyblue]CANAIS DE TV[/B][/COLOR]</name>
+<thumbnail>http://i.imgur.com/Kk0s5Mn.png</thumbnail>
+</subitem>
+</item>
+
+<item>
+<title>[B][COLOR deepskyblue]CANAIS DE TV[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://bit.ly/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0VQMTk2NS9BZGRvbi9tYXN0ZXIvTUVOVVNfVFY</externallink>
+<thumbnail>http://i.imgur.com/Kk0s5Mn.png</thumbnail>
+<fanart>http://i.imgur.com/HiYIBZi.jpg</fanart>
+<info>Canais que passam na TV Portuguesa (e não só)</info>
+</item>
+
+
+<channels>
+<channel>
+<name>[B][COLOR deepskyblue]SPECTO (Filmes & Series)[/B][/COLOR]</name>
+<thumbnail>http://i.imgur.com/QD92nj5.png</thumbnail>
+</subitem>
+</item>
+
+<item>
+<title>[B][COLOR deepskyblue]SPECTO (Filmes & Series)[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://bit.ly/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0VQMTk2NS9BZGRvbi9tYXN0ZXIvTUVOVVNfU1BFQ1RP</externallink>
+<thumbnail>http://i.imgur.com/QD92nj5.png</thumbnail>
+<fanart>http://i.imgur.com/mn5rs9L.jpg</fanart>
+<info>Plugin video SPECTO para Filmes & Series</info>
+</item>
+
+
+<channels>
+<channel>
+<name>[B][COLOR deepskyblue]KODI TIP's[/B][/COLOR]</name>
+<thumbnail>http://i.imgur.com/0KLNqjG.png</thumbnail>
+</subitem>
+</item>
+
+<item>
+<title>[B][COLOR deepskyblue]KODI TIP's[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://bit.ly/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0VQMTk2NS9BZGRvbi9tYXN0ZXIvTElTVEFTX1lPVVRVQkU</externallink>
+<thumbnail>http://i.imgur.com/0KLNqjG.png</thumbnail>
+<fanart>http://i.imgur.com/FfdwcM6.jpg</fanart>
+<info>Videos do YouTube</info>
+</item>
+
+
+<channels>
+<channel>
+<name>[B][COLOR deepskyblue]WEBCAM's[/B][/COLOR]</name>
+<thumbnail>http://i.imgur.com/Ew8Ztzk.png</thumbnail>
+</subitem>
+</item>
+
+<item>
+<title>[B][COLOR deepskyblue]WEBCAM's[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://bit.ly/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0VQMTk2NS9BZGRvbi9tYXN0ZXIvTUVOVVNfV0VCQ0FNUw</externallink>
+<thumbnail>http://i.imgur.com/Ew8Ztzk.png</thumbnail>
+<fanart>http://i.imgur.com/JdOKsYv.jpg</fanart>
+<info>WebCam's espalhadas pelo mundo</info>
+</item>
+
+
+<channels>
+<channel>
+<name>[B][COLOR deepskyblue]OUTROS ADD-ONS[/B][/COLOR]</name>
+<thumbnail>http://i.imgur.com/Lp77boG.png</thumbnail>
+</subitem>
+</item>
+
+<item>
+<title>[B][COLOR deepskyblue]OUTROS ADD-ONS[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://bit.ly/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0VQMTk2NS9BZGRvbi9tYXN0ZXIvTUVOVVNfT1VUUk9TX0FERE9OUw</externallink>
+<thumbnail>http://i.imgur.com/Lp77boG.png</thumbnail>
+<fanart>http://i.imgur.com/gxTu7kl.jpg</fanart>
+<info>Outros Add-ons para o Kodi</info>
+</item>
+
+
+<channels>
+<channel>
+<name>[B][COLOR deepskyblue]FERRAMENTAS[/B][/COLOR]</name>
+<thumbnail>http://i.imgur.com/kfX31Ca.png</thumbnail>
+</subitem>
+</item>
+
+<item>
+<title>[B][COLOR deepskyblue]FERRAMENTAS[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/EP1965/Addon/master/MENUS_FERRAMENTAS</externallink>
+<thumbnail>http://i.imgur.com/kfX31Ca.png</thumbnail>
+<fanart>http://i.imgur.com/pUAuNJx.jpg</fanart>
+<info>Ferramentas para o Kodi</info>
+</item>
