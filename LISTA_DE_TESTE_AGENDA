@@ -1,6 +1,6 @@
 <item>
 <title>[B][COLOR red]27.09 12h00[B][COLOR white]•[B][COLOR green]FUTEBOL[B][COLOR white]•[B][COLOR blue]CSKA•TOTTENHAM[B][COLOR white]•[B][COLOR green]UYL[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1157.ts;streamtype=TSDOWNLOADER&amp;name=SPTV1</link>
+<link>plugin://plugin.video.f4mTester/;streamtype=TSDOWNLOADER&amp;name=SPTV1;?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1157.ts$$lsname=SPTV1</link>
 <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1721.ts;streamtype=TSDOWNLOADER&amp;name=SPTV1</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/2325.ts;streamtype=TSDOWNLOADER&amp;name=SPTV1</link>
 <link>http://163.172.170.33:8081/live/sporttv1-hq/l_103923_21579000_2674.ts?nimblesessionid=1160952&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE2IDEyOjU4OjU4IFBNJmhhc2hfdmFsdWU9TjJsbTJnb3FhU25uNlN0Nk15VW8zUT09JnZhbGlkbWludXRlcz02MCZpZD0xODguMTE0LjExMS4yMzYmc3RybV9sZ</link>
